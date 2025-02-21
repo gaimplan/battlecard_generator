@@ -1,0 +1,257 @@
+[
+    {
+        "topic": "Enhanced Capability and Performance",
+        "sections": [
+            {
+                "section_name": "Discovery Questions",
+                "statements": [
+                    {
+                        "statement": "What are the biggest challenges you currently face with your existing truck or fleet in terms of towing capacity or payload?"
+                    },
+                    {
+                        "statement": "How often do you find yourselves needing to make multiple trips due to load limitations?"
+                    },
+                    {
+                        "statement": "Are you satisfied with the fuel efficiency you're currently getting, especially when towing or hauling heavy loads?"
+                    },
+                    {
+                        "statement": "What kind of terrain or weather conditions do you typically encounter in your work, and how well does your current vehicle handle them?"
+                    },
+                    {
+                        "statement": "How important is a comfortable and responsive driving experience to you, especially during long workdays?"
+                    }
+                ]
+            },
+            {
+                "section_name": "Needs Assessment Questions",
+                "statements": [
+                    {
+                        "statement": "What is the maximum towing capacity you require for your typical hauling needs?"
+                    },
+                    {
+                        "statement": "What are your priorities in terms of engine performance \u2013 are you looking for maximum power, fuel efficiency, or a balance of both?"
+                    },
+                    {
+                        "statement": "How important is having multiple engine options to choose from to best suit your specific needs?"
+                    },
+                    {
+                        "statement": "Do you require four-wheel drive for enhanced traction and control in challenging conditions?"
+                    },
+                    {
+                        "statement": "What level of ride comfort and stability do you need, especially when carrying heavy loads over rough terrain?"
+                    }
+                ]
+            },
+            {
+                "section_name": "Qualification Criteria",
+                "statements": [
+                    {
+                        "statement": "Prospect requires a towing capacity of at least X pounds to avoid multiple trips."
+                    },
+                    {
+                        "statement": "Prospect prioritizes fuel efficiency and is looking for a measurable improvement over their current vehicle."
+                    },
+                    {
+                        "statement": "Prospect values having multiple engine options to choose from to tailor the truck to their specific needs."
+                    },
+                    {
+                        "statement": "Prospect requires four-wheel drive for consistent performance in various weather and terrain conditions."
+                    },
+                    {
+                        "statement": "Prospect needs a comfortable and stable ride, even when carrying heavy loads, to reduce driver fatigue."
+                    }
+                ]
+            },
+            {
+                "section_name": "Red Flags",
+                "statements": [
+                    {
+                        "statement": "Prospect is primarily concerned with the lowest possible purchase price and is unwilling to invest in enhanced capability or performance features."
+                    },
+                    {
+                        "statement": "Prospect's hauling needs are minimal and do not require a truck with high towing capacity or payload."
+                    },
+                    {
+                        "statement": "Prospect is satisfied with their current vehicle's fuel efficiency and is not interested in exploring options for improvement."
+                    },
+                    {
+                        "statement": "Prospect operates exclusively in urban environments with paved roads and does not require four-wheel drive or advanced suspension systems."
+                    },
+                    {
+                        "statement": "Prospect believes that all trucks in the segment offer similar levels of capability and performance and does not recognize the value of the Silverado 1500's specific features."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topic": "Advanced Technology for Increased Productivity",
+        "sections": [
+            {
+                "section_name": "Discovery Questions",
+                "statements": [
+                    {
+                        "statement": "What are the biggest challenges your team faces in maintaining efficiency and minimizing downtime on the job site?"
+                    },
+                    {
+                        "statement": "How important is it for your team to stay connected and informed while on the road or at remote job locations?"
+                    },
+                    {
+                        "statement": "What kind of safety incidents or near misses have you experienced due to lack of driver awareness or visibility?"
+                    },
+                    {
+                        "statement": "What are the current limitations of your vehicles' technology in terms of navigation, communication, and entertainment?"
+                    },
+                    {
+                        "statement": "How much time is currently spent on tasks that could be automated or streamlined with better technology integration?"
+                    }
+                ]
+            },
+            {
+                "section_name": "Needs Assessment Questions",
+                "statements": [
+                    {
+                        "statement": "What specific connectivity features (e.g., wireless Apple CarPlay, Android Auto) are essential for your team's daily operations?"
+                    },
+                    {
+                        "statement": "What level of integration with smartphones and other devices is required to improve communication and collaboration?"
+                    },
+                    {
+                        "statement": "Which advanced driver-assistance systems (ADAS) are most important for enhancing safety and reducing accidents?"
+                    },
+                    {
+                        "statement": "What type of infotainment system would best support your drivers' needs for navigation, communication, and entertainment?"
+                    },
+                    {
+                        "statement": "How would improved job site efficiency and reduced downtime impact your overall project timelines and profitability?"
+                    }
+                ]
+            },
+            {
+                "section_name": "Qualification Criteria",
+                "statements": [
+                    {
+                        "statement": "The prospect values improved job site efficiency and is actively seeking solutions to reduce downtime."
+                    },
+                    {
+                        "statement": "The prospect requires enhanced connectivity features to support communication and collaboration among team members."
+                    },
+                    {
+                        "statement": "The prospect prioritizes driver safety and is interested in advanced driver-assistance systems."
+                    },
+                    {
+                        "statement": "The prospect needs a user-friendly infotainment system that integrates seamlessly with their existing technology infrastructure."
+                    },
+                    {
+                        "statement": "The prospect is willing to invest in technology upgrades to achieve measurable improvements in productivity and safety."
+                    }
+                ]
+            },
+            {
+                "section_name": "Red Flags",
+                "statements": [
+                    {
+                        "statement": "The prospect is primarily focused on the lowest price and is unwilling to pay for advanced technology features."
+                    },
+                    {
+                        "statement": "The prospect believes their current vehicles' technology is adequate and sees no need for upgrades."
+                    },
+                    {
+                        "statement": "The prospect is resistant to adopting new technology and prefers traditional methods of communication and task management."
+                    },
+                    {
+                        "statement": "The prospect does not prioritize driver safety and is unwilling to invest in advanced driver-assistance systems."
+                    },
+                    {
+                        "statement": "The prospect lacks a clear understanding of how technology can improve job site efficiency and reduce downtime."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topic": "Unmatched Reliability and Durability",
+        "sections": [
+            {
+                "section_name": "Discovery Questions",
+                "statements": [
+                    {
+                        "statement": "What are the biggest challenges you face with your current trucks in terms of maintenance and repairs?"
+                    },
+                    {
+                        "statement": "How much downtime are you experiencing due to vehicle breakdowns or maintenance issues?"
+                    },
+                    {
+                        "statement": "What are your biggest concerns regarding the lifespan and long-term performance of your work trucks?"
+                    },
+                    {
+                        "statement": "How do unexpected repair costs impact your budget and profitability?"
+                    },
+                    {
+                        "statement": "What features do you value most in a work truck to ensure it can handle demanding tasks and conditions?"
+                    }
+                ]
+            },
+            {
+                "section_name": "Needs Assessment Questions",
+                "statements": [
+                    {
+                        "statement": "What is your ideal lifespan for a work truck before needing to replace it?"
+                    },
+                    {
+                        "statement": "What level of towing and payload capacity do you require for your typical work tasks?"
+                    },
+                    {
+                        "statement": "How important is it to have a truck with a robust and durable construction to withstand harsh conditions?"
+                    },
+                    {
+                        "statement": "Are you looking for a truck with advanced safety features to protect your drivers and reduce the risk of accidents?"
+                    },
+                    {
+                        "statement": "What are your expectations for warranty coverage and support in case of unexpected repairs or issues?"
+                    }
+                ]
+            },
+            {
+                "section_name": "Qualification Criteria",
+                "statements": [
+                    {
+                        "statement": "The prospect prioritizes minimizing downtime and maximizing uptime for their work trucks."
+                    },
+                    {
+                        "statement": "The prospect is concerned about the long-term cost of ownership, including maintenance and repairs."
+                    },
+                    {
+                        "statement": "The prospect values a truck with a proven track record of reliability and durability."
+                    },
+                    {
+                        "statement": "The prospect requires a truck with high-strength steel construction to withstand demanding work conditions."
+                    },
+                    {
+                        "statement": "The prospect is looking for a comprehensive warranty to protect their investment and minimize financial risk."
+                    }
+                ]
+            },
+            {
+                "section_name": "Red Flags",
+                "statements": [
+                    {
+                        "statement": "The prospect is solely focused on the lowest upfront price, regardless of long-term reliability and maintenance costs."
+                    },
+                    {
+                        "statement": "The prospect believes that all trucks are equally reliable and durable, and doesn't see a need to invest in a higher-quality vehicle."
+                    },
+                    {
+                        "statement": "The prospect is not concerned about downtime or the impact of vehicle breakdowns on their business operations."
+                    },
+                    {
+                        "statement": "The prospect has a history of neglecting vehicle maintenance and repairs, leading to premature failures."
+                    },
+                    {
+                        "statement": "The prospect is only interested in short-term leases and doesn't care about the long-term value or lifespan of the truck."
+                    }
+                ]
+            }
+        ]
+    }
+]
