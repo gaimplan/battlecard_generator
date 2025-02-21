@@ -49,17 +49,17 @@ def main():
        
     # Define the sequence of scripts to run
     scripts = [
-        #('search-benefits.py', 'Product Benefits Search'),
-        #('rag-valueprop.py', 'Value Proposition RAG'),
-        #('rag-qualifying.py', 'Qualifying Questions RAG'),
-        #('rag-usecases.py', 'Use Cases RAG'),
-        #('search-competitor1.py', 'Competitor 1 Search'),
-        #('search-competitor2.py', 'Competitor 2 Search'),
-        #('rag-competitive.py', 'Competitive Analysis RAG'),
-        #('rag-objection.py', 'Objection Handling RAG'),
-        #('rag-actionplan.py', 'Action Plan RAG'),
-        #('rag-strategicoverview.py', 'Strategic Overview RAG'),
-        #('combine_json.py', 'JSON Combination'),
+        ('search-benefits.py', 'Product Benefits Search'),
+        ('rag-valueprop.py', 'Value Proposition RAG'),
+        ('rag-qualifying.py', 'Qualifying Questions RAG'),
+        ('rag-usecases.py', 'Use Cases RAG'),
+        ('search-competitor1.py', 'Competitor 1 Search'),
+        ('search-competitor2.py', 'Competitor 2 Search'),
+        ('rag-competitive.py', 'Competitive Analysis RAG'),
+        ('rag-objection.py', 'Objection Handling RAG'),
+        ('rag-actionplan.py', 'Action Plan RAG'),
+        ('rag-strategicoverview.py', 'Strategic Overview RAG'),
+        ('combine_json.py', 'JSON Combination'),
         ('json_to_markdown.py', 'Markdown Conversion')
     ]
     
