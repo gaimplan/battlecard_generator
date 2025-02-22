@@ -68,7 +68,7 @@ def main():
        
     # Define the sequence of scripts to run
     scripts = [
-        ('search-benefits.py', 'Product Benefits Search'),
+        #('search-benefits.py', 'Product Benefits Search'),
         ('rag-valueprop.py', 'Value Proposition RAG'),
         ('rag-qualifying.py', 'Qualifying Questions RAG'),
         ('rag-usecases.py', 'Use Cases RAG'),

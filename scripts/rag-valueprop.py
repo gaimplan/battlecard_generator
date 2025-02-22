@@ -194,7 +194,9 @@ for entry in data:
     {value_propositions_template}
     </value_propositions>
 
-    Ensure the output is detailed, quantifiable, and directly tied to the content provided. Do not make up or guess facts, figures or words. Replace the generic placeholders in the template (e.g., "First value proposition headline", "First key benefit") with your specific findings. Output should only contain the <value_propositions> content.
+    Ensure the output is detailed, quantifiable, and directly tied to the content provided. Do not make up or guess facts, figures or words. Replace the generic placeholders in the template (e.g., "First value proposition headline", "First key benefit") with your specific findings. 
+    
+    Output should only contain the <value_propositions> content.
     """
 
     # Define the prompt with context
@@ -227,23 +229,31 @@ for entry in data:
     print("\n########\nResults\n")
     print(results)
 
-    # Extract JSON content from between tags and parse it
-    json_start = results.find("<value_propositions>")
-    json_end = results.find("</value_propositions>")
-    
-    if json_start == -1 or json_end == -1:
-        error_msg = "Error: Could not find value_propositions tags in response"
-        print(error_msg)
-        # Log the error
-        with open(os.path.join(run_log_dir, 'error.log'), 'w') as f:
-            f.write(f"{datetime.now().isoformat()}: {error_msg}\n")
-        sys.exit(1)
-        
-    json_content = results[json_start + len("<value_propositions>"):json_end].strip()
-    
+    # Try to parse the response in different formats
     try:
-        # Parse the JSON directly
+        # First try to find content between value_propositions tags
+        json_start = results.find("<value_propositions>")
+        json_end = results.find("</value_propositions>")
+        
+        if json_start != -1 and json_end != -1:
+            # Extract content between tags
+            json_content = results[json_start + len("<value_propositions>"):json_end].strip()
+        else:
+            # If no tags found, try to parse the entire response as JSON
+            # Look for the first '{' and last '}'
+            json_start = results.find("{")
+            json_end = results.rfind("}") + 1
+            if json_start != -1 and json_end != -1:
+                json_content = results[json_start:json_end].strip()
+            else:
+                raise ValueError("No valid JSON structure found in response")
+        
+        # Parse the JSON
         parsed_json = json.loads(json_content)
+        
+        # Validate the expected structure
+        if "value_propositions" not in parsed_json:
+            raise ValueError("Response missing required 'value_propositions' key")
         
         # Save the parsed results
         output_log = {
@@ -260,6 +270,13 @@ for entry in data:
         
     except json.JSONDecodeError as e:
         error_msg = f"\nError parsing JSON: {str(e)}\nRaw content that failed to parse:\n{json_content}"
+        print(error_msg)
+        # Log the error
+        with open(os.path.join(run_log_dir, 'error.log'), 'w') as f:
+            f.write(f"{datetime.now().isoformat()}: {error_msg}\n")
+        sys.exit(1)
+    except ValueError as e:
+        error_msg = f"\nError processing response: {str(e)}\nRaw response:\n{results}"
         print(error_msg)
         # Log the error
         with open(os.path.join(run_log_dir, 'error.log'), 'w') as f:
