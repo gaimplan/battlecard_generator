@@ -1,0 +1,76 @@
+{
+    "timestamp": "2025-02-22T12:12:44.550080",
+    "parsed_results": {
+        "value_propositions": [
+            {
+                "headline": "Powerful and Versatile Engine Options",
+                "key_benefits": [
+                    "High Horsepower: TurboMax engine delivers 310 hp.",
+                    "High Torque: TurboMax engine provides 430 lb-ft of torque.",
+                    "Diesel Option: Available Duramax 3.0L Turbo-Diesel engine offers 305 hp and 495 lb-ft of torque."
+                ],
+                "supporting_features": [
+                    "TurboMax engine standard on multiple trims (WT, Custom, Custom Trail Boss, LT, RST and LT Trail Boss)",
+                    "Available 5.3L EcoTec3 V8 engine with 355 hp and 383 lb-ft of torque",
+                    "Available 6.2L EcoTec3 V8 engine with 420 hp and 460 lb-ft of torque"
+                ]
+            },
+            {
+                "headline": "Enhanced Towing and Trailering Capabilities",
+                "key_benefits": [
+                    "High Towing Capacity: Can tow up to 13,300 lbs with the Duramax 3.0L Turbo-Diesel engine.",
+                    "Multiple Camera Views: Up to 14 available camera views for easier towing.",
+                    "Customizable Trailer Profiles: Available Trailering App offers customized trailer profiles."
+                ],
+                "supporting_features": [
+                    "Proven trailering technology",
+                    "Trailer Sway Control",
+                    "Hill Start Assist and Auto Grade Braking"
+                ]
+            },
+            {
+                "headline": "Advanced Technology for Enhanced Connectivity and Convenience",
+                "key_benefits": [
+                    "Large Touchscreen Display: Available 13.4-inch diagonal color touch-screen display.",
+                    "Reconfigurable Driver Information Center: Available 12.3-inch diagonal reconfigurable Driver Information Center.",
+                    "Smartphone Integration: Wireless Apple CarPlay\u00ae and Android Auto\u2122 compatibility."
+                ],
+                "supporting_features": [
+                    "Chevrolet Infotainment 3 Premium system with Google built-in compatibility",
+                    "Available Bose\u00ae premium sound system",
+                    "Available Wi-Fi\u00ae hotspot capability"
+                ]
+            }
+        ],
+        "sources": [
+            {
+                "title": "Chevrolet Silverado 1500 Features and Specs - Car and Driver",
+                "url": "https://www.caranddriver.com/chevrolet/silverado-1500/specs"
+            },
+            {
+                "title": "2025 Chevy Silverado 1500 Review | Interior & Tow Specs",
+                "url": "https://www.medlinchevrolet.com/research-silverado-1500?srsltid=AfmBOopeEWRdQzXZY4VO7_dlKNr35LPJhwa6iSgUPRwLt9yRylfDgpPg"
+            },
+            {
+                "title": "2025 Chevy Silverado 1500 | Pickup Truck | Chevrolet",
+                "url": "https://www.chevrolet.com/trucks/silverado/1500"
+            },
+            {
+                "title": "7 of the Best Features in the 2024 Chevrolet Silverado 1500",
+                "url": "https://www.chevroletofottawa.com/blog/2024/july/29/7-of-the-best-features-in-the-2024-chevrolet-silverado-1500.htm"
+            },
+            {
+                "title": "The Top Three Reasons You Need a Chevy Silverado 1500",
+                "url": "https://www.downtown.chevyman.com/the-top-three-reasons-you-need-a-chevy-silverado-1500/"
+            },
+            {
+                "title": "2025 Chevrolet Silverado 1500 Features & Specs",
+                "url": "https://www.autonationchevroletdoral.com/models/chevrolet-silverado+1500"
+            },
+            {
+                "title": "2024 Chevy Silverado 1500 | Pickup Truck | Chevrolet",
+                "url": "https://www.chevrolet.com/trucks/previous-year/silverado/1500"
+            }
+        ]
+    }
+}

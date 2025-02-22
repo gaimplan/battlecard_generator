@@ -1,6 +1,6 @@
 {
     "competitor": "Ford F-150",
-    "query_count": 8,
+    "query_count": 16,
     "results": [
         {
             "url": "https://media.ford.com/content/fordmedia/fna/us/en/news/2023/09/12/the-new-2024-ford-f-150--a-built-ford-tough-truck-that-is-smart-.html",
@@ -10,31 +10,38 @@
             "raw_content": null
         },
         {
-            "url": "https://www.ford.com/trucks/f150/features/technology/",
-            "title": "2025 Ford F-150\u00ae Truck | Technology",
-            "content": "The Ford F-150\u00ae boasts modern tech features like available Ford BlueCruise Hands-Free Highway Driving & Ford Co-Pilot360\u00ae driver-assist features.",
-            "score": 0.72325134,
-            "raw_content": null
-        },
-        {
             "url": "https://www.caranddriver.com/ford/f-150/specs",
             "title": "Ford F-150 Features and Specs - Car and Driver",
             "content": "Rear Anti-Roll Bar Diameter (inches) Rear Brake Rotors, diameter x thickness (inches) Rear Drums, diameter x width (inches) Front Wheel Size (inches) Rear Wheel Size (inches) Rear Wheel Material Spare Wheel Size (inches) Rear Gross Axle Weight Rating (pounds) Ford F-150 Specs for Other Model Years Electronic Locking w/3.73 Axle Ratio Solid Axle Rear Suspension w/Leaf Springs 4-Wheel Disc Brakes w/4-Wheel ABS, Front And Rear Vented Discs, Brake Assist, Hill Hold Control and Electric Parking Brake Black Power Heated Side Mirrors w/Manual Folding Tailgate/Rear Door Lock Included w/Power Door Locks Ford Co-Pilot360 - Autolamp Auto On/Off Reflector Led Low/High Beam Auto High-Beam Daytime Running Lights Preference Setting Headlamps w/Delay-Off Cruise Control w/Steering Wheel Controls Power 1st Row Windows w/Driver And Passenger 1-Touch Up/Down",
-            "score": 0.7163977,
+            "score": 0.71687365,
             "raw_content": null
         },
         {
             "url": "https://www.youtube.com/watch?v=jpJgeCnkF8g",
             "title": "FIRST LOOK: 2024 Ford F-150 | New Features, Interior Overview ...",
             "content": "The 2024 Ford F-150 gets a substantial refresh, bringing additional standard features, updated styling, the latest technology,",
-            "score": 0.69573146,
+            "score": 0.6959795,
             "raw_content": null
         },
         {
-            "url": "https://www.ford.com/trucks/f150/features/design/",
-            "title": "2025 Ford F-150\u00ae Truck | Design | Ford.com",
-            "content": "The 2025 Ford F-150\u00ae is all about using smart design. It is masterfully crafted with under-seat storage, available interior work surface and flip & fold",
-            "score": 0.55796635,
+            "url": "https://media.ford.com/content/fordmedia/fna/us/en/products/trucks/f-150/2021-f-150.html",
+            "title": "2021 Ford F-150 | Ford Media Center",
+            "content": "It targets the most towing and payload of any light-duty full-size pickup, introduces all-new features to increase customer productivity, has new connected vehicle innovations such as over-the-air updates that help keep F-150 at the forefront of purposeful technology, and an the most available all-new 3.5-liter PowerBoost\u2122 hybrid powertrain with Pro Power Onboard\u2122 \u2013 an integrated power generator. F-150 introduces an all-new 12-inch center screen \u2013 standard on XLT high series and above \u2013 that allows customers to split the screen and control multiple functions simultaneously, including navigation, music or truck features.",
+            "score": 0.6238588,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.ford.com/trucks/f150/features/technology/",
+            "title": "2025 Ford F-150\u00ae Truck | Technology",
+            "content": "2025 Ford F-150\u00ae Truck | Technology | Ford.com Ford BlueCruise Ford Credit With modern tech features like the available Ford BlueCruise127 hands-free highway driving to high-speed 5G hotspot connectivity and Ford Co-Pilot360\u00ae driver-assist features.10 ...less Ford BlueCruise127 is an available advanced driver-assistance feature that enables hands-free highway driving, helping make your drive less stressful and more enjoyable. Note: A/Z Plan pricing information is not available on all Ford websites. close Thank you for visiting www.ford.com To help you find your ideal certified used Ford vehicle, Ford is partnering with Autotrader to bring you the Ford Blue Advantage website. close You are now leaving www.ford.com. close You are now leaving www.ford.com. Ford Merchandise Why Ford Credit About Ford",
+            "score": 0.56200886,
+            "raw_content": null
+        },
+        {
+            "url": "https://media.ford.com/content/fordmedia/fna/us/en/products/trucks/f-150/2018-ford-f-150.html",
+            "title": "2018 Ford F-150 | Ford Media Center",
+            "content": "2018 Ford F-150 \u00b7 36.0-gallon extended-range fuel tank \u00b7 Black vinyl floor covering (XLT) \u00b7 BoxLink\u2122 with four premium locking cleats \u00b7 Class IV Trailer Hitch",
+            "score": 0.55072874,
             "raw_content": null
         },
         {
@@ -45,206 +52,10 @@
             "raw_content": null
         },
         {
-            "url": "https://www.rontirapelliford.com/research-f150.html",
-            "title": "2025 Ford F-150\u00ae Review | Towing & Payload Specs",
-            "content": "Engineered for both work and recreation, the 2025 Ford F-150\u00ae boasts legendary power, outstanding performance, and premium amenities.",
-            "score": 0.52568597,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.bussford.com/research-f150",
-            "title": "2025 Ford F-150\u00ae Review | Towing, Interior, & Colors",
-            "content": "With a robust design, legendary performance, and the latest technologies, the 2025 Ford F-150 is a versatile companion for busy days.",
-            "score": 0.5057865,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.ford.com/trucks/f150/features/off-roading/",
-            "title": "2025 Ford F-150\u00ae Truck | Off-Roading",
-            "content": "With multiple drive modes and trims to choose from, Ford F-150\u00ae off-road trucks are ready for the serious off-roader. Bold design, Terrain Management System",
-            "score": 0.49465415,
-            "raw_content": null
-        },
-        {
-            "url": "https://media.ford.com/content/fordmedia/fna/us/en/products/trucks/f-150/2021-f-150.html",
-            "title": "2021 Ford F-150 | Ford Media Center",
-            "content": "New technologies will now be available for the 2021 Ford F-150 including class-exclusive Onboard Scales and Smart Hitch as well as continuously controlled",
-            "score": 0.47826138,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.drivedanaford.com/compare/f-150-vs-silverado-1500-staten-island-ny.htm",
-            "title": "Comparing the Ford F-150 vs. Chevrolet Silverado 1500",
-            "content": "The Ford F-150 outperforms the Chevrolet Silverado 1500 in towing capacity, offering up to 14,000 pounds when properly equipped, which is the ideal choice for",
-            "score": 0.9531401,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.jdemmerford.com/research/new-ford-f-150-vs-chevrolet-silverado-1500.htm",
-            "title": "2020 Ford F-150 vs Chevrolet Silverado 1500 Comparison",
-            "content": "Another difference between the vehicles is that the 2020 Chevrolet Silverado 1500 has around 35 more horsepower than the 2020 Ford F-150. 2020 Ford F-150 vs",
-            "score": 0.92507464,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.autonationfordtorrance.com/research/comparison-ford-f150-vs-chevrolet-silverado-1500.htm",
-            "title": "Comparison: Ford F-150 vs Chevy Silverado 1500",
-            "content": "The Ford F-150 and Chevrolet Silverado 1500 are two of America's most iconic trucks, offering exceptional power and performance.",
-            "score": 0.9147261,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.miamichevy.com/2024-chevy-silverado-1500-vs-ford-f-150-comparison.htm",
-            "title": "Side-By-Side Comparison Of The Chevy Silverado 1500 Vs. Ford F ...",
-            "content": "Among the most important factors in a Chevrolet Silverado 1500 vs. Ford F-150 comparison is a look at towing capacity. Both vehicles offer available engines.",
-            "score": 0.9053309,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.edmunds.com/car-comparisons/ford-f-150-vs-chevrolet-silverado-1500/",
-            "title": "Ford F-150 vs Chevrolet Silverado 1500 - Car Comparison - Edmunds",
-            "content": "Ford F-150 vs Chevrolet Silverado 1500 - Car Comparison ; Curb weight. 4,687 lb. \u00b7 Ground Clearance. 8.2 in. ; Curb weight. 4,700 lb. \u00b7 Ground Clearance.",
-            "score": 0.86632514,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.americanford.us/compare/ford-f150-vs-chevrolet-silverado-glendive-mt.htm",
-            "title": "Ford F-150 vs. Chevrolet Silverado 1500 - Glendive",
-            "content": "... Ford F-150 offers a much more premium ride quality than its Chevrolet rival. Technology & Safety. Both the new Ford F-150 and Chevrolet Silverado 1500 are on",
-            "score": 0.8591094,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.autonationfordcorpuschristi.com/ford-f150-vs-chevy-silverado-1500.htm",
-            "title": "What's the Difference: Ford F-150 vs Chevy Silverado 1500",
-            "content": "What's the Difference: Ford F-150 vs Chevy Silverado 1500. Ford F-150 vs Chevy ... Chevrolet Silverado 1500 Summary. First introduced in 1999, the Chevy",
-            "score": 0.8539252,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.motortrend.com/reviews/ford-f-150-vs-chevrolet-silverado-ram-1500-towing-payload-engines-comparison/",
-            "title": "Ford F-150 vs. Chevy Silverado 1500 vs. Ram 1500 - MotorTrend",
-            "content": "For the 2025 Ram 1500, the best fuel economy offered comes from the Tradesman HFE (high fuel efficiency) model fit with the 3.6-liter V-6 engine. Chevy is the last manufacturer to offer a diesel engine in its light-duty pickups, and it is paying dividends in the area of fuel economy with two-wheel-drive Silverado fitted with the 3.0-liter Duramax offering as high as 29 mpg on the highway. Today, the highest available tow rating for a half-ton is 13,500 pounds, with an EcoBoost-powered Ford F-150 Super Cab. Chevy follows with a maximum of 13,300 pounds with a 3.0-liter Duramax-powered two-wheel-drive crew cab. Chevy\u2019s Silverado 1500 regular cab offers a maximum payload rating of 2,260 pounds when fitted with a 2.7-liter TurboMax engine and either bed.",
-            "score": 0.84918517,
-            "raw_content": null
-        },
-        {
-            "url": "https://cars.usnews.com/cars-trucks/advice/chevy-silverado-vs-ford-f-150",
-            "title": "Chevrolet Silverado 1500 vs. Ford F-150: Head to Head | U.S. News",
-            "content": "The Chevrolet Silverado 1500 and Ford F-150 are excellent choices if you're looking for a full-size pickup. But which one is the better truck?",
-            "score": 0.8127637,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.klicklewiscars.com/compare/chevy-1500-vs--ford-f-150.htm",
-            "title": "Compare Chevy 1500 vs. Ford F-150 | Klick Lewis Chevrolet",
-            "content": "Compare the Chevy 1500 against the Ford F-150! Discover the differences ... Side by side and number by number, the Chevrolet Silverado 1500 pickup truck",
-            "score": 0.76659125,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.tulgafifthwheel.com/blogs/news/a-comprehensive-comparison-between-ford-f-150-and-dodge-ram-1500?srsltid=AfmBOoqU3TKU8gM3Sm1Qgoslu5NG6RS31xzwByLOxOd1gHGOXRoGI74k",
-            "title": "A Comprehensive Comparison Between Ford F-150 and Dodge ...",
-            "content": "In terms of ride comfort and handling, the Ford F-150 and Dodge Ram 1500 differ in their suspension systems. The F-150 uses a traditional leaf",
-            "score": 0.91175514,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.nielsendodgechryslerjeepram.com/compare-dodge-ram-1500-v-ford-f150.htm",
-            "title": "Compare RAM 1500 vs. Ford F-150",
-            "content": "Better fuel economy: The Ram 1500 offers 21 city MPG and 29 highway MPG which allows you to stay on the road longer than the Ford F-150 and its 18 city MPG and",
-            "score": 0.8969848,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.larrymillerdodgeramtucson.com/compare/dodge-ram-1500-vs-ford-f150.htm",
-            "title": "Ram 1500 vs Ford F150 | Ram Truck Comparison Tucson",
-            "content": "Compare the New Dodge Ram 1500 Pickup Truck to the Ford F-150. Safety. Both the Ram 1500 and the F\u2011150 have standard driver and passenger frontal airbags, front",
-            "score": 0.88178825,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.samlemanford.com/model-comparisons/2021-ford-f-150-vs-2021-ram-1500/",
-            "title": "2021 Ford F-150 vs. 2021 RAM 1500 | Sam Leman Ford",
-            "content": "... Dodge RAM 1500 vs. Ford F-150 comparison from Sam Leman Ford. While both of these trucks offer strong capabilities, the new F-150 delivers more horsepower",
-            "score": 0.8338803,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.jamescdjr.com/research/ram-1500-versus-ford-f-150.htm",
-            "title": "2019 Ram 1500 vs. Ford F-150: Truck Comparison | James CDJR",
-            "content": "See the table below for key performance specs. 2019 Dodge Ram 1500 Laramie. Model. 2019 Ford F-150 XLT. 3.6L V6 eTorque. Engine. 3.3L Ti-VCT V6. 395 HP*.",
-            "score": 0.82288796,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.napletonclermont.com/comparison-review/ram-1500-vs-ford-f-150.htm",
-            "title": "ram 1500 vs ford f-150 comparison review",
-            "content": "When it comes down to the exterior features, the Clermont Ford F-150 doesn't measure up to the new Dodge RAM 1500 for sale near Clermont. For starters, the new",
-            "score": 0.81133276,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=kH5cEjyoWLA",
-            "title": "NEW Ford F-150 vs Ram 1500 - WHICH TRUCK IS THE BEST?",
-            "content": "2021 Ford F-150 vs 2021 Dodge Ram 1500 Longhorn review by The Straight Pipes. The Ford F-150 is putting down 400 horsepower and 500 lb-ft of",
-            "score": 0.76173395,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.ratonford.com/2019-ford-f-150-vs-dodge-ram-1500.htm",
-            "title": "2019 Ford F-150 vs Dodge Ram 1500 | Phil Long Ford Raton",
-            "content": "2019 Ford F-150 vs Dodge Ram 1500 ; Bed Length \u00b7 Two sizes available: 6-foot-4-inch or 5-foot-7-inch bed. Color Options ; Engine Options \u00b7 Two engine options: 305-",
-            "score": 0.7323053,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.iseecars.com/compare/2020-ford-f__150-vs-2020-ram-ram_pickup_1500",
-            "title": "2020 Ford F-150 vs. 2020 Ram 1500 - iSeeCars.com",
-            "content": "iSeeCars' unbiased and data-driven comparison of the 2020 Ford F-150 and ... Dodge Ram 1500 vs. Ford F-150 \u00b7 Ford F-150 vs. Nissan Titan \u00b7 Ram 1500 vs. Ram",
-            "score": 0.69099766,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.olathedodgechryslerjeep.net/manufacturer-information/ram-1500-vs-ford-f-150/",
-            "title": "2024 RAM 1500 vs. 2024 Ford F-150 | Olathe Dodge Chrysler Jeep ...",
-            "content": "Ford F-150 Comparison with Olathe Dodge Chrysler Jeep Ram! Visit our Olathe ... Nevertheless, the Dodge Ram 1500 vs. F-150 debate is still going strong",
-            "score": 0.6889923,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.kbb.com/ford/f150/",
-            "title": "2025 Ford F150 Price, Reviews, Pictures & More | Kelley Blue Book",
-            "content": "The hard-working 2025 Ford F-150 offers innovative tech, convenience, and towing features that appeal to a wide range of truck buyers. Pricing starts at $39,345",
-            "score": 0.71687365,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.caranddriver.com/ford/f-150-2022",
-            "title": "2022 Ford F-150 Review, Pricing, and Specs - Car and Driver",
-            "content": "The price of the 2022 Ford F-150 starts at $31,335 and goes up to $74,785 depending on the trim and options. ... The F-150 is available with multiple body styles",
-            "score": 0.6538572,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.tomkelleyford.com/research/f-150.htm",
-            "title": "2025 Ford F-150\u00ae Review | Towing, Hauling, & Payload Specs",
-            "content": "2025 Ford F-150 XLT TRUCK V6 EcoBoost Engine with Auto Start-Stop Technology. $59,491 $62,100 MSRP ... *Website errors may occur. All offers and pricing details",
-            "score": 0.6033015,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.ford.com/trucks/f150/pricing-and-incentives/",
-            "title": "2025 Ford F-150\u00ae Truck | Pricing, Leasing & Incentives",
-            "content": "2025 Ford F-150\u00ae Truck | Pricing, Leasing & Incentives | Ford.com Ratings and reviews are provided by customers who have either purchased a vehicle or visited a dealership for service. Offers Offers Offers 2025 Ford F-150\u00ae Truck | Pricing, Leasing & Incentives | Ford.com Please contact your local dealer for the latest information on our current lease offers. Please contact your local dealer for the latest information on our current retail offers. Please contact your local dealer for the latest information on our current offers. {{ offer.name }} Your local Ford dealer is the best source for up-to-date information regarding events and offers. Note: A/Z Plan pricing information is not available on all Ford websites. About Ford",
-            "score": 0.57293844,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.fairviewfordinc.com/new-ford-ford-f-150-review-with-prices-specs-photos/?srsltid=AfmBOopvdu7LGYYomQjQmzm04_pdNPVoLm_-0HAico81c6GJ6ebQnHpu",
-            "title": "New Ford F-150 Review with Prices, Specs & Photos",
-            "content": "Ford F-150 Model Overview at Joe Rizza Ford. Key Features. Starting at $33,835 MSRP*; Five",
-            "score": 0.5553635,
+            "url": "https://www.ford.com/trucks/f150/2024/",
+            "title": "2024 Ford F-150\u00ae Truck | Pricing, Photos, Specs & More",
+            "content": "![Image 88: Man walking near a 2024 Ford F-150\u00ae pickup with the Pro Access Tailgate open while hitched to a trailer](https://www.ford.com/is/image/content/dam/vdm_ford/live/en_us/ford/nameplate/f-150f-150/2024/collections/dm/24_FRD_F15_62077.tif?croppathe=1_21x9&wid=1440) ![Image 112: 2024 Ford F-150\u00ae pickup with farm equipment loaded into the truck bed being driven on a dirt road](https://www.ford.com/is/image/content/dam/vdm_ford/live/en_us/ford/nameplate/f-150f-150/2024/collections/dm/24_FRD_F15_62080.tif?croppathe=1_21x9&wid=1440) With the hybrid engine you get exceptional capability courtesy of a strong 430 horsepower* V6, and the 2024 Ford F-150\u00ae full hybrid pickup has the best full hybrid maximum available payload in its class - 1,755 lbs. Where can I find pricing for the 2024 Ford F-150\u00ae truck? The available max tow weight rating for F-150\u00ae pickups vary depending on model and engine size. of torque* 3.5L PowerBoost\u2122 Full Hybrid V6 engine is available on F-150\u00ae XLT, LARIAT\u00ae, King Ranch\u00ae and Platinum\u00ae models.",
+            "score": 0.44116792,
             "raw_content": null
         },
         {
@@ -255,10 +66,402 @@
             "raw_content": null
         },
         {
-            "url": "https://www.ford.com/trucks/f150/2024/",
-            "title": "2024 Ford F-150\u00ae Truck | Pricing, Photos, Specs & More",
-            "content": "![Image 88: Man walking near a 2024 Ford F-150\u00ae pickup with the Pro Access Tailgate open while hitched to a trailer](https://www.ford.com/is/image/content/dam/vdm_ford/live/en_us/ford/nameplate/f-150f-150/2024/collections/dm/24_FRD_F15_62077.tif?croppathe=1_21x9&wid=1440) ![Image 112: 2024 Ford F-150\u00ae pickup with farm equipment loaded into the truck bed being driven on a dirt road](https://www.ford.com/is/image/content/dam/vdm_ford/live/en_us/ford/nameplate/f-150f-150/2024/collections/dm/24_FRD_F15_62080.tif?croppathe=1_21x9&wid=1440) With the hybrid engine you get exceptional capability courtesy of a strong 430 horsepower* V6, and the 2024 Ford F-150\u00ae full hybrid pickup has the best full hybrid maximum available payload in its class - 1,755 lbs. Where can I find pricing for the 2024 Ford F-150\u00ae truck? The available max tow weight rating for F-150\u00ae pickups vary depending on model and engine size. of torque* 3.5L PowerBoost\u2122 Full Hybrid V6 engine is available on F-150\u00ae XLT, LARIAT\u00ae, King Ranch\u00ae and Platinum\u00ae models.",
-            "score": 0.44116792,
+            "url": "https://www.bussford.com/research-f150",
+            "title": "2025 Ford F-150\u00ae Review | Towing, Interior, & Colors",
+            "content": "2025 Ford F-150\u00ae Review | Towing, Interior, & Colors Ford F-150 2025 Ford F-150\u00a0Cab & Bed Options The 2025 Ford F-150 offers five distinct configurations, each thoughtfully designed with versatile cab and bed options to seamlessly support your towing and driving needs. 2025 Ford F-150\u00a0Engine Options & Towing Capacity The 2025 Ford F-150 offers a selection of six robust engine options, each ready to meet your diverse driving and towing needs. Navigate every journey with confidence in the 2025 Ford F-150, supported by advanced safety and driver assistance technologies such as Pre-Collision Assist\u00ae, a lane-keeping system, and BLIS\u00ae (blind spot information system). 2025 Ford F-150\u00a0Colors Available 2025 Ford F-150\u00a0Trims Available 2023 Ford F-150 Trim Levels Available 2023 Ford F-150 Colors",
+            "score": 0.44724357,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.serrasterlingheights.com/2024-chevrolet-silverado-1500-vs-2024-ford-f-150?srsltid=AfmBOoqVKLzHZG1360qSaCvnNHbTvOM_Sf0GxqpQFv40cHBTzKy_HZVG",
+            "title": "Chevy Silverado 1500 vs Ford F-150: Comparison & Review",
+            "content": "When it comes to performance, both the Chevrolet Silverado 1500 and Ford F-150 offer a range of powerful engines. The Silverado 1500 provides a smooth ride and",
+            "score": 0.93978655,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.autonationfordtorrance.com/research/comparison-ford-f150-vs-chevrolet-silverado-1500.htm",
+            "title": "Comparison: Ford F-150 vs Chevy Silverado 1500",
+            "content": "Comparison: Ford F-150 vs Chevy Silverado 1500 | Ford Dealership Torrance [Skip to main content](https://www.autonationfordtorrance.com/research/comparison-ford-f150-vs-chevrolet-silverado-1500.htm#page-body) Ford F-150 Overview Ford F-150 Lightning Overview Comparison: Ford F-150 vs Chevy Silverado 1500 The Ford F-150 and Chevrolet Silverado 1500 are two of America's most iconic trucks, offering exceptional power and performance. New Ford F-150 Inventory 2024 Ford F-150 vs. But when comparing the Ford F-150 vs. The Chevrolet Silverado also offers strong engine options, including the 6.2-liter V8, but the F-150's hybrid option provides excellent fuel efficiency without sacrificing power. On the safety front, the F-150 comes standard with Ford's Personal Safety System and offers available Ford Co-Pilot360 Technology, adding advanced driver-assist features and enhancing peace of mind. Ford F150 comparison. New Ford F-150 Inventory",
+            "score": 0.78294516,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.miamichevy.com/2024-chevy-silverado-1500-vs-ford-f-150-comparison.htm",
+            "title": "Side-By-Side Comparison Of The Chevy Silverado 1500 Vs. Ford F ...",
+            "content": "Side-By-Side Comparison Of The Chevy Silverado 1500 Vs. Ford F-150 | Tropical Chevrolet While this puts the Chevy Silverado 6.2L EcoTec3 V-8 engine at a slight disadvantage of 30 horsepower compared to the Ford model's available High-Output 3.5-liter EcoBoost engine, this top-tier Chevy Silverado engine can help your vehicle reach its maximum towing capacity of 13,300 pounds.1 Meanwhile, the 450-horsepower Ford engine has a maximum towing capacity of 8,200 pounds.2 Under the right circumstances, the 2023 Ford F-150 model is capable of towing 14,000 pounds,2 slightly more than the maximum capacity of the Chevy Silverado. The Chevy Silverado 1500 and Ford F-150 are two highly qualified pickup trucks that both offer a wide range of engine options, cab configurations, and truck beds to choose from.",
+            "score": 0.76701033,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.drivedanaford.com/compare/f-150-vs-silverado-1500-staten-island-ny.htm",
+            "title": "Comparing the Ford F-150 vs. Chevrolet Silverado 1500",
+            "content": "New Ford F-150 All New Ford Commercial Trucks All Ford Vehicles New Ford Trucks New Ford Trucks New Ford F-150 Lightning Ford F-150 vs. The Ford F-150 and Chevrolet Silverado 1500 often top the list when considering a full-size pickup truck near Staten Island. Ford F-150: | Ford F-150 Ford F-150: The Ford F-150 truck's hybrid powertrain option is superior to the Silverado 1500. |  | Ford F-150 The Ford F-150 outperforms the Chevrolet Silverado 1500 in towing capacity, offering up to 14,000 pounds when properly equipped, which is the ideal choice for heavy-duty tasks. Explore the full range of Ford F-150 models available at Dana Ford in Staten Island. Dana Ford266 West Service Road",
+            "score": 0.78886026,
+            "raw_content": null
+        },
+        {
+            "url": "https://cars.usnews.com/cars-trucks/advice/chevy-silverado-vs-ford-f-150",
+            "title": "Chevrolet Silverado 1500 vs. Ford F-150: Head to Head | U.S. News",
+            "content": "The Chevrolet Silverado 1500 and Ford F-150 are excellent choices if you're looking for a full-size pickup. The Ford F-150 and the Chevrolet Silverado 1500 are two shining examples. To help get to the bottom of this, U.S. News & World Report has compared the F-150 and Silverado in several areas, including price, performance, reliability, safety and more. Find the best price on the 2023 Ford F-150 \u00bb Find the best price on the 2023 Ford F-150 \u00bb Find the best price on the 2023 Ford F-150 \u00bb The Ford F-150 has a U.S. News safety score of 9.4 out of 10. Car Advice Ford F-150 Tremor The Tremor filters the F-150 pickup truck through an off-road-focused lens.Warren ClarkeJan. 4, 2024",
+            "score": 0.72559077,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.autonationfordcorpuschristi.com/ford-f150-vs-chevy-silverado-1500.htm",
+            "title": "What's the Difference: Ford F-150 vs Chevy Silverado 1500",
+            "content": "What's the Difference: Ford F-150 vs Chevy Silverado 1500 | AutoNation Ford Corpus Christi What's the Difference: Ford F-150 vs Chevy Silverado 1500 Ford F-150 vs Chevy Silverado 1500 Ford F-150 vs Chevy Silverado 1500 | Features | Ford F-150 | Chevy Silverado 1500 | Excluding the Tremor\u2122 and Raptor\u00ae which come standard with four-wheel drive (4x4), the powertrain for all Ford F-150 trucks pairs a 10-speed automatic transmission with rear-wheel drive (RWD) and 4x4 as an option. In their full-size pickup truck category, U.S. News & World Report ranks the Ford F-150 #1 out of 9, while the Chevrolet Silverado ranks #6 out of 9. The Ford F-150 offers an impressive array of intelligent trailering equipment to help you hitch, maneuver, and tow with confidence.",
+            "score": 0.74652773,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.dellachevrolet.com/chevy-silverado-vs-ford-f150.html",
+            "title": "Chevy Silverado vs Ford F150: Head-to-Head Comparison",
+            "content": "We're comparing the 2025 Chevy Silverado and the 2025 Ford F150. The 2025 Chevrolet Silverado and Ford F-150 have impressive engines. | Feature | Chevrolet Silverado | Ford F-150 | 2025 Chevy Silverado vs 2025 Ford F150 The 2025 Chevy Silverado and 2025 Ford F150 are top contenders in the full-size truck market. | Feature | 2025 Chevy Silverado | 2025 Ford F150 | | Feature | Ford F-150 | Chevy Silverado | In our 2025 Chevy Silverado vs 2025 Ford F150 review, we've compared two top trucks. Which truck has better fuel efficiency, the 2025 Chevy Silverado or the 2025 Ford F-150? The 2025 Ford F-150 might tow a bit more, but the 2025 Chevy Silverado is close.",
+            "score": 0.8868231,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.sharpnackdirect.com/chevrolet-silverado-1500-vs-ford-f-150-comparison-willard-oh-dtw.html",
+            "title": "Chevrolet Silverado 1500 vs Ford F-150 Comparison",
+            "content": "Chevrolet Silverado 1500 vs Ford F-150 Payload Comparison: ... Chevrolet has a payload capacity of 2,250 pounds. Ford has already gained an excellent reputation",
+            "score": 0.82492816,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.worldoffordalexandria.com/compare/ford-f150-vs-chevy-silverado.htm",
+            "title": "Compare the Ford F-150 to the Chevy Silverado in Alexandria",
+            "content": "Compare the Ford F-150 to the Chevy Silverado in Alexandria Compare the Ford F-150 and Chevrolet Silverado in Alexandria, VA You can view our comparison of the Ford F-150 to the Chevrolet Silverado 1500 and see for yourself that a new F-150 is the sensible choice. Additionally, when you look at the current selection of new F-150 vehicles at Ourisman Ford of Alexandria, we'll be happy to review the different lease and purchase offers to help you craft a sensible payment plan. The team here at our dealership in Alexandria, VA would be happy to provide you with more information and details and showcase all the current new F-150 trucks and highlight the different features, capability, and reasons why you should buy or lease one over the Chevrolet Silverado 1500.",
+            "score": 0.7055624,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.shetlercorleyford.net/compare/ford-f150-vs-chevy-silverado-1500.htm",
+            "title": "Ford F-150 vs. Chevy Silverado 1500 Comparison",
+            "content": "Learn about the differences between the Ford F-150 vs. Chevrolet Silverado 1500 ... Safety. Safety comes standard on the F-150 and Silverado 1500. Both",
+            "score": 0.8785752,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.serrasterlingheights.com/2024-chevrolet-silverado-1500-vs-2024-ford-f-150?srsltid=AfmBOorH_80sGOob3JStJrYVJ3ucBsWJoWH4IKdADbftdaGYIFPbylnT",
+            "title": "Chevy Silverado 1500 vs Ford F-150: Comparison & Review",
+            "content": "When it comes to performance, both the Chevrolet Silverado 1500 and Ford F-150 offer a range of powerful engines. The Silverado 1500 provides a smooth ride and",
+            "score": 0.8877607,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.iseecars.com/compare/ford-f__150-vs-chevrolet-silverado_1500",
+            "title": "Ford F-150 vs. Chevrolet Silverado 1500 - iSeeCars.com",
+            "content": "In comparing the Ford F-150's and the Chevrolet Silverado 1500's specifications and ratings, the Ford F-150 has the advantage in the areas of resale value, overall quality score and base engine power. Based on this comparison of the Ford F-150's and the Chevrolet Silverado 1500's specifications and ratings, the two cars are fairly comparable. Pricing: A used 2024 Ford F-150 ranges from $45,415 to $114,995 while a used 2024 Chevrolet Silverado 1500 is priced between $39,985 to $68,286. This results in the Ford F-150 being ranked 1 out of 11 Best Full-Size Trucks and the Chevrolet Silverado 1500 being ranked 4 out of 11. Available Cab Types and Bed Lengths: Both the Ford F-150 and the Chevrolet Silverado 1500 are available in Crew Cab, Extended Cab,or a Regular Cab configuration.",
+            "score": 0.82220376,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.rowefordauburn.com/blog/2024/september/12/truck-comparison-ford-f-150-vs-chevrolet-silverado-1500.htm",
+            "title": "Truck Comparison: Ford F-150 vs. Chevrolet Silverado 1500",
+            "content": "[Skip to main content](https://www.rowefordauburn.com/blog/2024/september/12/truck-comparison-ford-f-150-vs-chevrolet-silverado-1500.htm#page-body) Compare the Ford F-150 to one of its chief rivals in the Chevrolet Silverado 1500 to have confidence you're buying the superior new truck. As a proven Ford truck dealer serving Sabattus and Oxford, ME, we can show you through our extensive new inventory to a perfect F-150 that meets your needs. Tags: 2024-Ford-F150-KingRanch-CrewCab-Truck, 2024 Ford-150, Rowe Ford Auburn New Ford Models Rowe Ford Auburn Ford new inventory escape New Ford Inventory SUV Ford F-150 Financing New Ford F-150 explorer used trucks ford escape f-150 New Ford SUVs New Ford Trucks ford service focus Ford Explorer new Ford Finance used Ford finance center Ford Bronco 2024-Ford-F150-KingRanch-CrewCab-Truck 2017 used inventory new Ford EcoSport Auburn ford ranger Ford F-250",
+            "score": 0.7067782,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.edmunds.com/car-comparisons/ford-f-150-vs-chevrolet-silverado-1500/",
+            "title": "Ford F-150 vs Chevrolet Silverado 1500 - Car Comparison - Edmunds",
+            "content": "Ford F-150 vs Chevrolet Silverado 1500 - Car Comparison X-Small luxury SUVs  Small luxury SUVs  Luxury electric SUVs  Luxury plug-in hybrid SUVs  Audi A3 / BMW 2 Series Gran Coupe / Mercedes-Benz CLA-Class BMW 3 Series / Mercedes-Benz C-Class / Audi A4 / BMW 4 Series Gran Coupe Mercedes-Benz E-Class / BMW 5 Series / Volvo S90 / Genesis G80 Mercedes-Benz S-Class / BMW 7 Series / BMW 8 Series Gran Coupe / Genesis G90 Chevrolet Corvette / Porsche 911 / Mercedes-Benz AMG GT / BMW M8 Toyota RAV4 vs Honda CR-V Comparison  Chevrolet Camaro vs Ford Mustang Comparison  Toyota Camry vs Honda Accord Comparison  Honda Civic vs Toyota Corolla Comparison  Honda Odyssey vs Toyota Sienna Comparison  Hyundai Genesis vs Chevrolet Camaro",
+            "score": 0.6954834,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.motortrend.com/reviews/ford-f-150-vs-chevrolet-silverado-ram-1500-towing-payload-engines-comparison/",
+            "title": "Ford F-150 vs. Chevy Silverado 1500 vs. Ram 1500 - MotorTrend",
+            "content": "For the 2025 Ram 1500, the best fuel economy offered comes from the Tradesman HFE (high fuel efficiency) model fit with the 3.6-liter V-6 engine. Chevy is the last manufacturer to offer a diesel engine in its light-duty pickups, and it is paying dividends in the area of fuel economy with two-wheel-drive Silverado fitted with the 3.0-liter Duramax offering as high as 29 mpg on the highway. Today, the highest available tow rating for a half-ton is 13,500 pounds, with an EcoBoost-powered Ford F-150 Super Cab. Chevy follows with a maximum of 13,300 pounds with a 3.0-liter Duramax-powered two-wheel-drive crew cab. Chevy\u2019s Silverado 1500 regular cab offers a maximum payload rating of 2,260 pounds when fitted with a 2.7-liter TurboMax engine and either bed.",
+            "score": 0.7515939,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=KZi_yl-qdDQ",
+            "title": "2024 Ford F-150 vs 2024 Chevy Silverado - YouTube",
+            "content": "Today I compare a 2024 Ford F-150 to a 2024 Chevrolet Silverado 1500! Jerry Seiner Chevy: https://www.seinerchevy.com/ Ask For Jayden:",
+            "score": 0.68420124,
+            "raw_content": null
+        },
+        {
+            "url": "https://repairpal.com/cars/compare/chevrolet-silverado-1500-vs-ford-f-150",
+            "title": "Chevrolet Silverado 1500 vs Ford F-150 | RepairPal",
+            "content": "Compare the Chevrolet Silverado 1500 and Ford F-150 on reliability, average repair costs ($714 vs. $788), known issues, and more to find your ideal pickup.",
+            "score": 0.7092009,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.quora.com/Which-pickup-truck-is-better-in-2024-Im-also-interested-in-the-quality-of-service-centers-the-cost-of-spare-parts-and-long-term-reliability-My-choice-is-between-1-Ford-F-150-2-Ram-1500-3-Chevrolet-Silverado-1500",
+            "title": "1. Ford F-150 2. Ram 1500 3. Chevrolet Silverado 1500 - Quora",
+            "content": "Which truck has a more reliable engine, the Ford F-150 or the Chevrolet Silverado? Which truck is more reliable: Dodge Ram, Ford F-150, or Chevy Silverado? Which truck has a more reliable engine, the Ford F-150 or the Chevrolet Silverado? Which truck is more reliable: Dodge Ram, Ford F-150, or Chevy Silverado? Which truck is best: Ford F150, or Chevrolet Silverado? How reliable are Ford F-series pickup trucks? Is the Ford F-150 a more popular truck than the Chevrolet Silverado & Dodge Ram combined? Where are Ford F-150 pickup trucks assembled? Which truck has a more reliable engine, the Ford F-150 or the Chevrolet Silverado? Which truck is more reliable: Dodge Ram, Ford F-150, or Chevy Silverado?",
+            "score": 0.8170061,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.jonesfordverdevalley.com/ford-f-150-vs-chevy-silverado/",
+            "title": "Ford F-150 Vs. Chevy Silverado: A Comparison Review",
+            "content": "... reliability/ford/f-150. 11Reference to this third ... For details regarding this rating, visit https://repairpal.com/reliability/chevrolet/silverado-1500.",
+            "score": 0.735737,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.gminsidenews.com/threads/comparison-tests-2015-ford-f-150-vs-2015-chevrolet-silverado-1500-2015-ram-1500-20.194650/page-2",
+            "title": "Comparison Tests 2015 Ford F-150 vs. 2015 Chevrolet Silverado ...",
+            "content": "Comparison Tests 2015 Ford F-150 vs. 2015 Chevrolet Silverado 1500, 2015 Ram 1500, 20 ; DanielAcosta \u00b7 Aug 3, 2013 \u00b7 88 Posts. #21 ; optiongm \u00b7 Oct 8, 2009 \u00b7 2,414",
+            "score": 0.68748367,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.jdemmerford.com/research/new-ford-f-150-vs-chevrolet-silverado-1500.htm",
+            "title": "2020 Ford F-150 vs Chevrolet Silverado 1500 Comparison",
+            "content": "Another difference between the vehicles is that the 2020 Chevrolet Silverado 1500 has around 35 more horsepower than the 2020 Ford F-150. 2020 Ford F-150 vs Chevrolet Silverado 1500 Towing/Payload/Cargo Looking at the towing capacity and payload capacity of the 2020 Ford F-150 and the 2020 Chevrolet Silverado 1500, they are pretty similar and only differ in a few hundred pounds. The major difference in these vehicles is that the 2020 Chevrolet Silverado 1500 comes close to doubling the cargo volume of the 2020 Ford F-150. 2020 Ford F-150 vs Chevrolet Silverado 1500 Technology Features Safety features of the 2020 Ford F-150 and the 2020 Chevrolet Silverado 1500 have a few similarities and differences in what they offer.",
+            "score": 0.9075175,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.sameslaredochevrolet.com/compare/chevy-silverado-1500-vs-ford-f150.htm",
+            "title": "Chevy Silverado 1500 vs. Ford F-150 - Sames Laredo Chevrolet",
+            "content": "The Chevy Silverado outperforms the Ford F-150 whether you're towing a boat to Laredo or road tripping out of Hebbronville. Whether you're tackling tough jobs,",
+            "score": 0.8479807,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.sawyerchevy.com/chevrolet-silverado-1500-vs-ford-f-150/",
+            "title": "Chevrolet Silverado 1500 vs. Ford F-150",
+            "content": "2024 Chevrolet Silverado 1500. vs. 2024 Ford F-150 ; Nine. Trim Levels. Eight ; 310 hp/430 lb-ft of torque. Standard Engine Power. 290 hp/265 lb-ft of torque.",
+            "score": 0.88564163,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.dorianford.com/2025-ford-f-150-vs-2025-chevrolet-silverado-1500-vehicle-comparison.html",
+            "title": "2025 Ford F-150 vs. Chevy Silverado 1500",
+            "content": "The 2025 Ford F-150 and Chevrolet Silverado 1500 offer powerful engine options, but the F-150 sets the bar higher in terms of versatility and capability.",
+            "score": 0.8215175,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.lonestarchevrolet.com/chevy-silverado-1500-vs-ford-f150",
+            "title": "Chevy Silverado 1500 vs Ford F-150 - Lone Star Chevrolet",
+            "content": "Comparison Review \u00b7 Chevy Silverado 1500: Generally more affordable with better value for its features and performance. \u00b7 Ford F-150: Can be more expensive,",
+            "score": 0.885404,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.bettenbakerfordcoopersville.com/research/compare/ford-f-150-vs-chevy-silverado-1500.htm",
+            "title": "Ford F-150 vs. Chevrolet Silverado 1500",
+            "content": "Compare the Ford F-150 and Chevrolet Silverado 1500 in Coopersville, MI. The new Ford F-150 is back to take on the Chevrolet Silverado 1500 and set the bar",
+            "score": 0.74004334,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.hillerford.com/ford-f150-vs-chevrolet-silverado.htm",
+            "title": "Ford F-150 vs. Chevrolet Silverado | Hiller Ford Inc.",
+            "content": "2024 Ford F-150, 2024 Chevrolet Silverado 1500. Transmission, 10-speed automatic, 8-speed automatic. Engine Horsepower, 400 hp @ 6000, 310 @ 5600.",
+            "score": 0.69099766,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.jerryremus.com/chevrolet-research/2024-chevrolet-silverado-1500-vs-2024-ford-f-150/",
+            "title": "2024 Chevrolet Silverado 1500 vs. Ford F-150",
+            "content": "2024 Ford F-150. 2024 Chevrolet Silverado 1500 vs. 2024 Ford F-150. 2024 Chevy ... Choosing between the Ford F-150 vs. Chevy Silverado isn't easy, but",
+            "score": 0.72278196,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.hardeeford.com/compare/ford-f150-vs-chevrolet-silverado1500-review.htm",
+            "title": "2024 Ford F-150 vs. Chevrolet Silverado 1500",
+            "content": "2024 Ford F-150 vs. Chevrolet Silverado 1500 ; Horsepower, 400 hp, 310 hp ; Exterior Length, 209.4 in. 229.7 in. ; Exterior Width, 79.9 in. 81.1 in. ; Leg Room",
+            "score": 0.7132923,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.samlemanford.com/model-comparisons/2021-ford-f-150-vs-2021-chevy-silverado-1500/",
+            "title": "2022 Ford F-150 vs. Chevy Silverado 1500: Which Is Right For You?",
+            "content": "2022 Ford F-150. vs. 2022 Chevrolet Silverado 1500 LTD ; 3.3L Ti-VCT V6. Base Engine. 2.7L 4-cylinder ; 290 hp. Base Horsepower. 285 hp ; 14,000 lbs. Maximum",
+            "score": 0.70287734,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.smithsuperstore.com/Chevy-Silverado-vs-Ford-F150",
+            "title": "Comparing The Chevy Silverado 1500 To The Ford F150",
+            "content": "... Chevrolet Silverado 1500 vs Ford F-150: Which Is A Better Value? So by now you must be wondering which truck is a better value for your hard earned cash.",
+            "score": 0.79215926,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.serrasterlingheights.com/2024-chevrolet-silverado-1500-vs-2024-ford-f-150?srsltid=AfmBOoowqZtcKONMkKlADcsvJvHQqw7xCD3uHmkRscDQ0OPQyGRK4snu",
+            "title": "Chevy Silverado 1500 vs Ford F-150: Comparison & Review",
+            "content": "The 2024 Chevrolet Silverado 1500 and Ford F-150 offer different interior experiences. The Silverado 1500 has a spacious and functional cabin with a massive",
+            "score": 0.90633047,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.iseecars.com/compare/chevrolet-silverado_1500-lt-vs-ford-f__150-xlt",
+            "title": "Chevrolet Silverado 1500 LT vs. Ford F-150 XLT - iSeeCars.com",
+            "content": "Pricing: A used 2024 Chevrolet Silverado 1500 LT ranges from $43,641 to $60,234 while a used 2024 Ford F-150 XLT is priced between $55,388 to $64,560. For a new",
+            "score": 0.90869105,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.fairfieldchevrolet.net/Silverado-1500-vs-Ford-F150?srsltid=AfmBOoolHkYwjqj2f4ArE_MPLkftj03MCZp2tzLWS0PfwHO-6PdJdjM8",
+            "title": "Check out our Chevy Silverado 1500 vs Ford F150 comparison.",
+            "content": "CHEVY SILVERADO 1500 OR Ford F-150: Loading and Cargo Bed Features. The Chevrolet Silverado 1500 and the Ford F150 were created to get the job done. Chevy and",
+            "score": 0.7343678,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.rodhatfieldchevy.com/F150-vs-Silverado-1500",
+            "title": "Silverado 1500 vs Ford F-150 Comparison - Rod Hatfield Chevrolet",
+            "content": "... vs Silverado: Horsepower & Towing; Chevy Silverado vs F150: Safety Features; Chevrolet Silverado 1500 vs Ford F-150: Which Is A Better Value? Come test drive",
+            "score": 0.70214266,
+            "raw_content": null
+        },
+        {
+            "url": "https://cars.usnews.com/cars-trucks/compare?trims=15927-463998_15989-458783",
+            "title": "Compare 2025 Ford F-150 vs. 2025 Chevrolet Silverado 1500",
+            "content": "Compare the 2025 Ford F-150 with the 2025 Chevrolet Silverado 1500: car rankings, scores, prices and specs.",
+            "score": 0.6912478,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.lawrencehallabileneonline.com/Silverado-1500-vs-Ford-F150",
+            "title": "Looking To Buy A Silverado 1500 or Ford F150?",
+            "content": "Chevrolet Silverado 1500 versus Ford F-150: Which Is A BEtter Buy? So at this point, you have to be wondering which pickup truck is really a better value for",
+            "score": 0.6762998,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.donbrownchevrolet.com/chevrolet-research/chevrolet-silverado-1500-vs-ford-f-150/",
+            "title": "2024 Chevrolet Silverado 1500 vs. Ford F-150",
+            "content": "The standard engine in the 2023 Chevrolet Silverado 1500 clearly outperforms the standard engine in the Ford F-150. Not only does it offer more horsepower and",
+            "score": 0.71185225,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.cavenderchevrolet.com/chevrolet-silverado-1500-vs-ford-f-150-a-head-to-head-comparison/?srsltid=AfmBOoq1IBXURM_WlhcEnw7k6kR6OaLt7_-zryG0dFxhkL-vjG5fZ8AH",
+            "title": "Chevrolet Silverado 1500 vs. Ford F-150: A Head-to-Head ...",
+            "content": "Discover why the Chevrolet Silverado 1500 stands above its rival, the Ford F-150, in this detailed head-to-head comparison.",
+            "score": 0.7040996,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.truecar.com/compare/chevrolet-silverado-1500-vs-ford-f-150/",
+            "title": "Chevrolet Silverado 1500 vs. Ford F-150 Comparison - TrueCar",
+            "content": "Compare price and specifications for the Chevrolet Silverado 1500 and Ford F-150 to see which vehicle might be right for you.",
+            "score": 0.6932451,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.hoffmanford.com/ford-vs-chevy.htm",
+            "title": "Ford vs Chevy: Why Americans Choose Ford | Hoffman Ford",
+            "content": "The 2019 Chevrolet Silverado 1500 comes in 12,200 pounds of towing and 2,590 pounds hauling capacity, while the 2019 Ford F-150 has 13,300 pounds of towing and",
+            "score": 0.818055,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.theglobeandmail.com/drive/reviews/article-comparing-the-f-150-and-silverado-1500-long-running-rivalry-now/",
+            "title": "Comparing the F-150 and Silverado 1500: Long-running rivalry now ...",
+            "content": "Here's how both stack up, the Chevrolet Silverado 1500 turbo-diesel against the Ford F-150 PowerBoost hybrid. ... Sustainability \u00b7 Licensing",
+            "score": 0.7900289,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.futurefordofsacramento.com/2025-ford-f-150-vs-2025-chevrolet-silverado-1500-review-sacramento-imos/",
+            "title": "2025 Ford F-150 vs 2025 Chevrolet Silverado 1500 Review",
+            "content": "When comparing the 2025 Ford F-150 to the 2025 Chevrolet Silverado 1500, both trucks shine in their own right but appeal to different customer priorities. The",
+            "score": 0.77446437,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.executivechevy.com/chevy-research/2024-chevrolet-silverado-1500-vs-ford-f-150/",
+            "title": "2024 Chevrolet Silverado 1500 vs. Ford F-150",
+            "content": "When it comes to American pickup trucks, the competition is fierce, particularly between the 2024 Chevrolet Silverado 1500 and the Ford F-150.",
+            "score": 0.7445268,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.fordofphoenixville.com/blogs/5365/2025-ford-f-150-vs-chevrolet-silverado-1500/",
+            "title": "2025 Ford F-150 vs. Chevrolet Silverado 1500: Ultimate Showdown",
+            "content": "Among the leaders in this market are the Ford F-150 and the Chevrolet Silverado 1500, two iconic models that represent American ingenuity.",
+            "score": 0.709684,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.monumentchevrolet.com/blogs/3704/2024-chevy-silverado-1500-vs-ford-f-150-which-is-better",
+            "title": "2024 Chevy Silverado 1500 vs. Ford F-150: Which is Better?",
+            "content": "Two of the more popular trucks on the road each year are the Chevrolet Silverado 1500 and the Ford F-150. Read our comparison guide to find",
+            "score": 0.7092009,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.woodhousechevyom.com/chevy-research/2024-chevrolet-silverado-1500-vs-ford-f-150/",
+            "title": "2024 Chevrolet Silverado 1500 vs. Ford F-150",
+            "content": "2024 Chevrolet Silverado 1500 vs. Ford F-150 ; 2024 Chevy Silverado 1500. vs. 2024 Ford F-150 ; 9. Trim Levels. 8 ; 310 hp. Standard Horsepower. 325 hp ; 430 lb-ft.",
+            "score": 0.69672287,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.depaulachevrolet.com/blog/the-rivalry-continues-5-ways-the-2025-silverado-1500-outshines-the-2025-f-150/?srsltid=AfmBOornU1Vwe8sdtsp31KHzy-olAHo0LtGznGlUMjelPcB_JwCmtUF9",
+            "title": "The Rivalry Continues: 5 Ways the 2025 Silverado 1500 Outshines ...",
+            "content": "Competition breeds innovation, and it shows when you slate the 2025 Chevy Silverado 1500 vs 2025 Ford F-150 ... Chevrolet Silverado 1500",
+            "score": 0.6369636,
+            "raw_content": null
+        },
+        {
+            "url": "https://egevgoer.com/blogs/blogs/ford-f-150-vs-chevy-silverado-1500-2025-pickup-showdown?srsltid=AfmBOoryX6Hbo-u9jLpnjtmE5bu_HV7FJuDIXhsUO31Nep1vlgr3CPZL",
+            "title": "Ford F-150 vs.Chevy Silverado 1500: 2025 Pickup Showdown",
+            "content": "Ford F-150 vs.Chevy Silverado 1500: 2025 Pickup Showdown. There are no ... The Chevrolet Silverado 1500 features a 12.3-inch color driver information",
+            "score": 0.5198388,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.gordonchevrolet.com/2021-chevy-silverado-1500-vs-2021-ford-f-150/",
+            "title": "2021 Chevy Silverado 1500 vs. 2021 Ford F-150 - Gordon Chevrolet",
+            "content": "If you are in the market for a powerful full-size pickup, it is likely that you have come across the Chevrolet Silverado 1500 ... Ford F-150 warranty plans, you",
+            "score": 0.74697095,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.truecar.com/compare/chevrolet-silverado-1500-ltd-vs-ford-f-150/",
+            "title": "Chevrolet Silverado 1500 LTD vs. Ford F-150 Comparison - TrueCar",
+            "content": "Compare price and specifications for the Chevrolet Silverado 1500 LTD and Ford F-150 to see which vehicle might be right for you.",
+            "score": 0.67501575,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.southtownechevrolet.com/chevy-silverado-1500-vs-ford-f150/",
+            "title": "Silverado 1500 vs F-150 | Southtowne Chevrolet Buick GMC",
+            "content": "Compared: Chevy Silverado 1500 & Ford F-150. 2023-Chevrolet-Silverado-1500-in-driveway. Buying a new vehicle takes a lot of research before you know which",
+            "score": 0.6519982,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.rudolphchevrolet.com/chevrolet-research/chevy-vs-ford/",
+            "title": "Chevy vs. Ford - Rudolph Chevrolet",
+            "content": "Chevy vs. Ford. 2021 Chevrolet Silverado 1500 vs. 2021 Ford F-150. Chevy. vs. Ford. Chevy Safety Assist. Safety System. Ford Co-Pilot360\u2122. Available. HomeLink",
+            "score": 0.62852204,
+            "raw_content": null
+        },
+        {
+            "url": "https://caredge.com/ford/f-150",
+            "title": "2024 Ford F-150 Pricing, Deals and Research - CarEdge",
+            "content": "2025 Ford F-150 Prices ; 2025 Ford F-150 XL 2WD SuperCrew 5.5' Box, $43,995. Unlock. View Pricing ; 2025 Ford F-150 STX 2WD SuperCab 6.5' Box, $44,915. Unlock.",
+            "score": 0.63750535,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.ford.com/trucks/f150/pricing-and-incentives/",
+            "title": "2025 Ford F-150\u00ae Truck | Pricing, Leasing & Incentives",
+            "content": "2025 Ford F-150\u00ae Truck | Pricing, Leasing & Incentives | Ford.com Ratings and reviews are provided by customers who have either purchased a vehicle or visited a dealership for service. Offers Offers Offers 2025 Ford F-150\u00ae Truck | Pricing, Leasing & Incentives | Ford.com Please contact your local dealer for the latest information on our current lease offers. Please contact your local dealer for the latest information on our current retail offers. Please contact your local dealer for the latest information on our current offers. {{ offer.name }} Your local Ford dealer is the best source for up-to-date information regarding events and offers. Note: A/Z Plan pricing information is not available on all Ford websites. About Ford",
+            "score": 0.57293844,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.fairviewfordinc.com/new-ford-ford-f-150-review-with-prices-specs-photos/?srsltid=AfmBOoqZAXO6d5V0xSfIagdgHOjfH3dbDCtcbbDl3Bkfl91iZniisW0w",
+            "title": "New Ford F-150 Review with Prices, Specs & Photos",
+            "content": "Ford F-150 Model Overview at Joe Rizza Ford. Key Features. Starting at $33,835 MSRP*; Five",
+            "score": 0.5553635,
             "raw_content": null
         },
         {
@@ -266,6 +469,20 @@
             "title": "2025 Ford F-150 Prices, Reviews, and Pictures | Edmunds",
             "content": "2025 Ford F-150 Prices, Reviews, and Pictures | Edmunds 2025 Ford F-150 2025 Ford F-150 2025 Ford F-150 Review You should definitely start your truck search with the Ford F-150, so be sure to check out our Expert Rating. The 2025 Ford F-150 is offered in six primary trim levels: XL, STX, XLT, Lariat, Platinum and King Ranch. Ford F-150 Reviews 2023 Ford F-150 Lariat 4dr SuperCrew 5.5 ft. 2023 Ford F-150 XLT 4dr SuperCrew 6.5 ft. 2023 Ford F-150 Platinum 4dr SuperCrew 4WD 5.5 ft. 2023 Ford F-150 Limited 4dr SuperCrew 4WD SB (3.5L 6cyl Turbo gas/electric hybrid 10A) See all 63 reviews of the Ford F-150 Ford\u00a0F-150 Ford F-150",
             "score": 0.43885794,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.edmunds.com/ford/f-150/2023/",
+            "title": "2023 Ford F-150 Prices, Reviews, and Pictures | Edmunds",
+            "content": "Research the 2023 Ford F-150 with our expert reviews and ratings. Edmunds also has Ford F-150 pricing, MPG, specs, pictures, safety features",
+            "score": 0.428784,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.rizzaford.com/ford-f-150-model-overview-orland-park-il.html?srsltid=AfmBOor2SQophGB2m9gdFK-Fbrxb3EAmVwDBESOS_FvRNpUIUwo8xpKH",
+            "title": "2025 Ford F-150 Review | Price, Specs, Trims Levels, Photos | Rizza",
+            "content": "Learn about the 2025 Ford F-150 including its MSRP price, key features, compare trims, specs, view photos and more in this overview by Joe Rizza Ford.",
+            "score": 0.34448805,
             "raw_content": null
         },
         {
@@ -299,22 +516,36 @@
         {
             "url": "https://www.copilotsearch.com/posts/ford-f-150-pros-and-cons-what-to-know/",
             "title": "Ford F-150 Pros and Cons: What To Know When Weighing Your ...",
-            "content": "Poor Fuel Economy ... Unfortunately, a powerhouse like the Ford F-150 is destined to have terrible fuel economy. According to tomwoodford.com, the",
-            "score": 0.4765072,
+            "content": "Ford F-150 Pros and Cons: What To Know When Weighing Your Decision - CoPilot What We Love About the Ford F-150 The off-roading capabilities of the Ford F-150 mean it\u2019s an excellent selection for activities like camping, extensive job sites, fishing, and more. Not only is the Ford F-150 excellent at towing, but it\u2019s also fantastic at hauling loads from one location to another. Unfortunately, the steep trim price levels keep many from enjoying the best the Ford F-150 offers. Should You Buy a Ford F-150? You can\u2019t get any better than the Ford F-150 when considering a truck. Ford Ford F-150 How Long Do Ford F-150s Last? What is the Best Year for the Ford F-150? Ford F-150 vs.",
+            "score": 0.4051433,
             "raw_content": null
         },
         {
             "url": "https://www.quora.com/What-are-the-pros-and-cons-of-owning-a-Ford-F150",
             "title": "What are the pros and cons of owning a Ford F150? - Quora",
-            "content": "What are the pros and cons of owning a Ford F150? 1 Answer. Recommended ... Would buying a 2010 Ford F-150 with 180,000 miles be a bad idea?",
-            "score": 0.33882108,
+            "content": "What are the pros and cons of owning a Ford F150? What are the pros and cons of owning a Ford F150? What is the top reason not to buy a Ford F150? Why is the Ford F150 so expensive to maintain? What is the towing capacity of a Ford F150? Why is the Ford F150 the best selling Truck? What's the best way to buy a 2013 Ford F150 Supercare $4500? How reliable is the Ford F150? How much can a Ford F150 tow? What is the top reason not to buy a Ford F150? Why is the Ford F150 so expensive to maintain? What is the towing capacity of a Ford F150? Why is the Ford F150 the best selling Truck?",
+            "score": 0.37820697,
             "raw_content": null
         },
         {
-            "url": "https://repairpal.com/problems/ford/f-150",
-            "title": "Ford F-150 Problems & Complaints - 36 Common Issues - RepairPal",
-            "content": "Explore 36 common issues reported by Ford F-150 owners, including engine roughness, oil leaks, and more. Find repair solutions and resources on RepairPal.",
-            "score": 0.32849765,
+            "url": "https://www.autoweb.com/2024-ford-f-150-lightning-road-test-and-review",
+            "title": "2024 Ford F-150 Lightning Road Test and Review - Autoweb",
+            "content": "2024 Ford F-150 Lightning Road Test and Review | Autoweb For this review, we spent a week testing the F-150 Lightning to learn more about the advantages and disadvantages of an electric pickup \u2013 and whether Ford has created a solution that could work for you. (A $60,000 rear-drive Cybertruck is available to order but won\u2019t enter production until at least 2025.) The AWD Cybertruck matches the F-150 Lightning in performance and doesn\u2019t cost much more given its extra standard features, and its 340-mile range estimate edges out the Ford\u2019s. The F-150 Lightning not only cuts your tailpipe emissions and fuel bills, but it\u2019s also a performance truck with sports-car acceleration and uncommonly sophisticated handling.",
+            "score": 0.36385083,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.ford-trucks.com/how-tos/a/ford-f150-ecoboost-pros-and-cons-359515",
+            "title": "Ford F150: EcoBoost Pros and Cons",
+            "content": "If you are in the market for a Ford F-150, you can't help but wonder about the EcoBoost engine ... Cons. Premium price when purchasing new; Worse towing",
+            "score": 0.35046637,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=pOsz8FwWYTY",
+            "title": "6 Reasons Why You SHOULD NOT Own Ford F-150! - YouTube",
+            "content": "You will learn about the common problems that affect the performance, comfort, and safety of your 2024 Ford F-150 ... You will learn about the",
+            "score": 0.30293778,
             "raw_content": null
         },
         {
@@ -325,185 +556,164 @@
             "raw_content": null
         },
         {
-            "url": "https://www.motor1.com/reviews/507057/2021-ford-f150-hybrid-pro-con/",
-            "title": "2021 Ford F-150 Hybrid Pros And Cons: Truck Stuff, But Greener",
-            "content": "2021 Ford F-150 Hybrid Pros And Cons: Truck Stuff, But Greener \u00b7 Ford's first hybrid truck impresses with capability, disappoints on refinement.",
-            "score": 0.27672765,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.f150online.com/articles/whats-up-in-the-forums-leveling-kit-pros-and-cons/",
-            "title": "Leveling Kit Pros and Cons: Our Readers Sound Off - F150online.com",
-            "content": "Mainly because a lot of folks simply don't like the \u201craked\u201d look of their stock Ford F-150. So, when the aftermarket presented a cheap and",
-            "score": 0.27438465,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.autoweb.com/2024-ford-f-150-lightning-road-test-and-review",
-            "title": "2024 Ford F-150 Lightning Road Test and Review - Autoweb",
-            "content": "The 2024 Ford F-150 Lightning is America's best-selling electric pickup. In this review, we explore its pros and cons so you can see if",
-            "score": 0.21988183,
+            "url": "https://repairpal.com/problems/ford/f-150",
+            "title": "Ford F-150 Problems & Complaints - 36 Common Issues - RepairPal",
+            "content": "Ford F-150 Problems 1997 Ford F-150 problems (17) View all 1998 Ford F-150 problems (13) View all 1999 Ford F-150 problems (17) View all 2000 Ford F-150 problems (18) View all 1990 Ford F-150 problems (16) View all 1991 Ford F-150 problems (12) View all 1992 Ford F-150 problems (11) View all 1995 Ford F-150 problems (13) View all 1996 Ford F-150 problems (10) View all 2003 Ford F-150 problems (18) View all 2001 Ford F-150 problems (16) View all 2002 Ford F-150 problems (19) View all 1993 Ford F-150 problems (12) View all 1994 Ford F-150 problems (11) View all 2004 Ford F-150 problems (20) View all 2005 Ford F-150 problems (14) View all 2006 Ford F-150 problems (15) View all",
+            "score": 0.22699817,
             "raw_content": null
         },
         {
             "url": "https://www.reddit.com/r/F150Lightning/comments/1fjy0n5/give_me_pros_and_cons_for_ford_lightning/",
             "title": "Give me pros and cons for Ford lightning? : r/F150Lightning - Reddit",
-            "content": "cost; Ford is pushing the top of the tax rebate limit so many trucks are right at the $80k limit ... My Ford F-150 Lightning Buyback Experience:",
-            "score": 0.19854583,
+            "content": "cost; Ford is pushing the top of the tax rebate limit so many trucks are right at the $80k limit ... Are you afraid of buying a used Ford F-150",
+            "score": 0.22098942,
             "raw_content": null
         },
         {
-            "url": "https://www.simivalleychryslerdodgejeepram.com/blogs/5737/page/2",
-            "title": "Simi Valley Chrysler Dodge Jeep Ram Blog - Page 2 of 67",
-            "content": "Competitor Comparison: Ford Explorer ST: Faster but less refined, with a ... Why Choose the Dodge Ram 1500? The Dodge Ram 1500 stands out from the",
-            "score": 0.507544,
+            "url": "https://www.ubuy.com.om/en/catalog/product/view/id/14604903/s/b07phwd4yy?srsltid=AfmBOopXpv3rQzQH1XrDbnxyf2wtXmEWiN-JFSyJOgug9KFr4YqHE6KE",
+            "title": "Set of 2 Gold Hook Off Road Decals for Ford F150 FX4 Oman | Ubuy",
+            "content": "Here's a comprehensive buying guide to help you understand the product specifications, key features, usage scenarios, competitor comparison, user reviews, price",
+            "score": 0.34528238,
             "raw_content": null
         },
         {
-            "url": "https://wp3.ijclab.in2p3.fr/cafe/",
-            "title": "Caf\u00e9 | Plateforme de d\u00e9vellopement WordPress IPN",
-            "content": "... [Competitor] Comparison dit : 7 janvier 2025 \u00e0 9 h 58 min. I need to ... Why Choose EtherTalk Investment? EtherTalk investment connects",
-            "score": 0.28894562,
+            "url": "https://turboautoparts.com/used-engine/chevy?srsltid=AfmBOorKj890BIyzXVKuAJocDJRwQnda1CQEMPxROiq8dj8O6HcdU6nL",
+            "title": "Used Chevy Engine Ready for Sale-Affordable, High-quality Options",
+            "content": "Reliability and Credibility: Our engines undergo certification and have been approved to comply with industry standards. Competitor Comparison: Why Choose Turbo",
+            "score": 0.30819073,
             "raw_content": null
         },
         {
-            "url": "https://www.webuyanycarusa.com/blog/audi-a3/",
-            "title": "A Complete Guide to the 2024 Audi A3: Features, Performance, and ...",
-            "content": "Competitor Comparison. Despite competition from rivals such as the ... Why Choose Us \u00b7 Sell Your Car \u00b7 About Us \u00b7 Reviews \u00b7 As Seen on TV",
-            "score": 0.28651395,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.cmasvalleynissan.com/2024-nissan-pathfinder-vs-2024-hyundai-palisade-staunton-va.htm",
-            "title": "2024 Nissan Pathfinder vs 2024 Hyundai Palisade | Staunton VA",
-            "content": "Competitor Comparison \u00b7 2025 Nissan Pathfinder \u00b7 2025 Nissan Kicks \u00b7 2025 Nissan ... Why Choose CMA? Carter Myers Automotive \u00b7 Sponsorship Request \u00b7 CMA's Easy",
-            "score": 0.20735951,
-            "raw_content": null
-        },
-        {
-            "url": "https://issuu.com/nmpmag/docs/idmp_mar16",
-            "title": "Idaho Mortgage Professional Magazine March 2016 - Issuu",
-            "content": "Why choose MBS Highway? BARRY HABIB\u2014 THE ORIGINATOR OF THE MARKET ... Including a competitor comparison table that highlights the best",
-            "score": 0.20112231,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.kutztowncadillac.com/cadillac-ct5-vs-competitor-comparison-why-choose-the-2023-ct5-sedan/?srsltid=AfmBOopOLqWgy4iJpTwm10rWhIfzreC_1o1tjPVsadKpg9tVtPLvfvmz",
+            "url": "https://www.kutztowncadillac.com/cadillac-ct5-vs-competitor-comparison-why-choose-the-2023-ct5-sedan/?srsltid=AfmBOop4feAnSJS2uas1dxJhIq2R7PWFp7yRtLIIyU1rw3qfjb9KMnbP",
             "title": "Cadillac CT5 vs. Competitor Comparison: Why Choose the 2023 ...",
             "content": "Cadillac CT5 vs. Competitor Comparison: Why Choose the 2023 CT5 Sedan? August 12th, 2024 by Miracle Cadillac of Kutztown.",
-            "score": 0.19015224,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.autopronashville.com/blog/a-comprehensive-exploration-of-chevrolet/",
-            "title": "A Comprehensive Exploration of Chevrolet | AutoPro of Nashville",
-            "content": "Why Choose Chevrolet? Key Features and Benefits. Reliability and ... Competitor Comparison: How Chevrolet Stands Out. Compared to brands",
-            "score": 0.18400416,
-            "raw_content": null
-        },
-        {
-            "url": "https://www.scribd.com/document/703940871/evalouation-organization-devalopment",
-            "title": "Evalouation Organization Devalopment | PDF - Scribd",
-            "content": "\u25fe\u25fe Competitor\u2014comparison and how change will help or hinder \u25fe\u25fe Professional\u2014function specific ... 6.5 Why Choose an OD Consultant or Practitioner",
-            "score": 0.17347047,
+            "score": 0.19028763,
             "raw_content": null
         },
         {
             "url": "https://www.cmasvalleynissan.com/nissan-vs-the-competition.htm",
             "title": "Research Nissan Cars For Sale vs Competitors | Staunton VA",
-            "content": "Competitor Comparison \u00b7 2025 Nissan Pathfinder \u00b7 2025 Nissan Kicks \u00b7 2025 Nissan ... Why Choose CMA? Carter Myers Automotive \u00b7 Sponsorship Request \u00b7 CMA's Easy",
-            "score": 0.14739585,
+            "content": "Research Nissan Cars For Sale vs Competitors | Staunton VA New Vehicles New Nissan Specials Electric Nissan Cars For Sale New Nissan Incentives New Nissan Models 2025 Nissan Pathfinder 2025 Nissan Kicks 2025 Nissan Rogue 2025 Nissan Altima 2025 Nissan Sentra 2025 Nissan Versa 2025 Nissan Frontier 2024 Nissan Murano 2024 Nissan Armada 2024 Nissan Titan 2024 Nissan Z 2024 Nissan ARIYA 2024 Nissan LEAF Used Vehicles Nissan Certified Pre-Owned Inventory Why Buy Nissan Certified Pre-Owned Used Nissan Models New Nissan Incentives Service & Parts Specials Service & Parts Financing Service & Parts Service Service & Parts Financing Nissan Parts Center Order Nissan Parts Service & Parts Financing My Nissan Rewards Nissan Vs. The Competition: Competitor Comparisons Nissan USA",
+            "score": 0.07694017,
             "raw_content": null
         },
         {
             "url": "https://www.pohankahyundaiva.com/sitemap/",
             "title": "Sitemap - Pohanka Hyundai of Fredericksburg",
-            "content": "2015 Hyundai Accent Competitor Comparison near Stafford, VA \u00b7 2015 Hyundai ... Why Choose Pohanka Hyundai Service near Washington, DC? Why Finance with",
-            "score": 0.13299827,
+            "content": "2015 Hyundai Tucson vs Ford Escape vs Toyota RAV4 2016 Hyundai Santa Fe Sport vs 2016 Ford Edge near Woodbridge, V 2016 Hyundai Sonata Hybrid For Sale in Fredericksburg, VA 2016 Hyundai Sonata vs 2016 Ford Fusion near Alexandria, VA 2016 Hyundai Sonata vs 2016 Nissan Altima near Alexandria, VA 2016 Hyundai Tucson vs 2016 Honda HR-V near Washington, DC 2017 Hyundai Elantra GT for Sale near Stafford, VA 2017 Hyundai Elantra GT for sale near Stafford, VA 2017 Hyundai Elantra Limited for Sale near Alexandria, VA 2017 Hyundai Elantra Limited for Sale near Fairfax, VA 2017 Hyundai Elantra Limited for Sale near Spotsylvania, VA 2017 Hyundai Elantra Limited for Sale near Stafford, VA 2017 Hyundai Elantra SE for Sale ne[...] Honda Civic Sport",
+            "score": 0.05732958,
             "raw_content": null
         },
         {
-            "url": "https://www.f150gen14.com/forum/threads/price-breakdown-sheet-from-dealer-wrote-msrp-2000-more-than-window-sticker-kind-of-confused.22365/",
-            "title": "Price Breakdown Sheet from Dealer.....Wrote MSRP $2000 More ...",
-            "content": "Feb 25, 2024 \u00b7 I went to a Dealer on Saturday to check out a 2023 F-150 and to get some pricing and to figure out what my 2016 F-150 is worth on trade in.Price Protection - New Vehicle orders | F150gen14 -- 2021+ Ford F ...4% Under Invoice on any 2024 F-150 Order at Granger Ford | Page 4Ford Dealers SCREWED Truck Buyers, Now They're Paying The Price3% Under invoice on a 2023 F-150 Order @ Granger Ford | Page 2More results from www.f150gen14.comMissing:  objections proof",
-            "score": 0.58237284,
+            "url": "https://www.pohanka-nissan.com/sitemap/",
+            "title": "Sitemap - Pohanka Nissan of Fredericksburg",
+            "content": "2015 Nissan Altima vs Mazda6 vs Ford Fusion vs Honda Accord 2015 Nissan Murano vs Toyota Venza vs Ford Edge vs Lexus RX 350 2015 Nissan Rogue vs Ford Escape vs Honda CR-V vs Hyundai Tucson 2016 Nissan Altima vs 2016 Chevrolet Malibu near Manassas, VA 2016 Nissan Maxima vs 2016 Toyota Avalon near Stafford, VA 2016 Nissan Sentra vs 2016 Hyundai Elantra near Manassas, VA 2016 Nissan Sentra vs 2016 Toyota Corolla near Fairfax, VA 2016 Nissan Versa Note vs 2016 Toyota Yaris near Stafford, VA 2017 Nissan Altima vs 2017 Honda Accord near Stafford, VA 2017 Nissan Altima vs 2017 Hyundai Sonata near Manassas, VA 2017 Nissan Altima vs 2017 Toyota Camry near Woodbridge, VA",
+            "score": 0.052119885,
             "raw_content": null
         },
         {
-            "url": "https://www.lightningowners.com/threads/edit-resolved-urgent-dealer-said-no-price-protection-5k-for-my-f-150-lightning-order-when-picking-up-what-to-do.3230/",
-            "title": "Resolved! Urgent!!! Dealer Said No Price Protection ($5K) For My F ...",
-            "content": "Jan 28, 2023 \u00b7 Ford has announced that they are lowering their F-150 Lightning prices due to an increase in plant production. Depending on the model the price\u00a0...Missing:  objections proof",
-            "score": 0.5611433,
+            "url": "https://www.cmasvalleynissan.com/2024-nissan-pathfinder-vs-2024-hyundai-palisade-staunton-va.htm",
+            "title": "2024 Nissan Pathfinder vs 2024 Hyundai Palisade | Staunton VA",
+            "content": "2024 Nissan Pathfinder vs 2024 Hyundai Palisade | Staunton VA | Harrisonburg [Skip to main content](https://www.cmasvalleynissan.com/2024-nissan-pathfinder-vs-2024-hyundai-palisade-staunton-va.htm#page-body) New Nissan Specials New Nissan Incentives New Nissan Models 2025 Nissan Pathfinder New Nissan Incentives Nissan Parts Center 2024 Nissan Pathfinder vs. Shop Nissan Inventory In the crowded SUV sector, the 2024 Nissan Pathfinder and the 2024 Hyundai Palisade stand out with their unique features and capabilities, gaining favor among buyers. Read on to see why drivers are raving about the 2024 Nissan Pathfinder for sale in Staunton, VA. The 2024 Nissan Pathfinder and the 2024 Hyundai Palisade both shine with their striking designs. The Nissan Pathfinder and Hyundai Palisade both emphasize safety and technology, but the Pathfinder stands out with its Nissan Intelligent Mobility.",
+            "score": 0.051429514,
             "raw_content": null
         },
         {
-            "url": "https://www.reddit.com/r/f150/comments/1hkk9pe/can_you_negotiate_on_sales_price_these_days/",
-            "title": "Can you negotiate on sales price these days? : r/f150 - Reddit",
-            "content": "Dec 23, 2024 \u00b7 Yes, there a few levers you can pull for your deal - Check target MSRP on edmunds for your truck spec and area; a 2024 F150 XLT MSRP is around $52K and should\u00a0...Price gauging a Ford F150 . Dealers want 50k over MSRP. I guess ...any recent purchases off the lot on new f150s? how much did you ...Is this a price mistake? : r/f150 - RedditWhy are F-150's so expensive now? What has changed to warrant ...More results from www.reddit.comMissing:  objections proof",
-            "score": 0.498609,
+            "url": "https://www.simivalleychryslerdodgejeepram.com/blogs/5737/page/2",
+            "title": "Simi Valley Chrysler Dodge Jeep Ram Blog - Page 2 of 67",
+            "content": "This article explores everything you need to know about the 2025 Jeep Wagoneer S, including performance, range, charging, technology, interior features, pricing, and how it compares to the competition. The 2025 Jeep Grand Cherokee is a true all-rounder, offering a perfect blend of off-road capability, luxury, performance, and technology. The 2025 Jeep Grand Cherokee is a versatile and capable midsize SUV that combines off-road prowess with luxury features. Jeep vehicles are known for their rugged off-road capability, but they also offer impressive technology features designed to enhance comfort, convenience, and safety. Jeep Grand Cherokee \u2013 Includes premium infotainment, driver-assist features, and luxury elements. Jeep Wagoneer & Grand Wagoneer \u2013 Includes high-end luxury tech features, including a passenger interactive display and premium sound system.",
+            "score": 0.050410144,
             "raw_content": null
         },
         {
-            "url": "https://www.f150forum.com/f129/price-negotiated-msrp-562954/",
-            "title": "Price Negotiated from MSRP - Community of Ford Truck Fans",
-            "content": "Aug 23, 2024 \u00b7 Makes my total about $7.5k below MSRP. Worst deal I've made in 25 years. Haven't seen the invoice yet so just don't have hard figures to share.Missing:  objections proof",
-            "score": 0.47606868,
+            "url": "https://www.webuyanycarusa.com/blog/audi-a3/",
+            "title": "A Complete Guide to the 2024 Audi A3: Features, Performance, and ...",
+            "content": "The 2024 Audi A3 features sleek exterior styling, luxurious interior design and comfort, powerful engine performance with optional all-wheel drive system, fuel efficiency/driving range for eco-friendly performance. The 2024 Audi A3 is a well-rounded vehicle offering a combination of luxury, performance, and safety in a compact four-door package. This trim level is also eligible for the optional Technology package, which includes navigation, premium audio, and various other enhancements, ensuring a more feature-rich driving experience. The 2024 Audi A3 comes loaded with various safety features and driver assistance technologies for a secure and enjoyable drive. In summary, the 2024 Audi A3 offers a compelling blend of luxury, performance, and safety features that make it a strong contender in the luxury compact sedan market.",
+            "score": 0.034726776,
             "raw_content": null
         },
         {
-            "url": "https://www.motor1.com/news/740063/2025-ford-f150-price/",
-            "title": "Some Ford F-150 Models Are Getting Big Price Cuts for 2025",
-            "content": "Nov 6, 2024 \u00b7 Ford cut pricing on the F-150 XLT and Lariat by $2,235 for 2025. Higher trim levels are up between $365 and $860; the entry-level XL is more",
-            "score": 0.2296047,
+            "url": "https://www.autopronashville.com/blog/a-comprehensive-exploration-of-chevrolet/",
+            "title": "A Comprehensive Exploration of Chevrolet | AutoPro of Nashville",
+            "content": "Chevrolet\u2019s first car, the Classic Six, was a powerful, luxurious model that debuted in 1913. By the 1950s, models like the Chevrolet Bel Air and Corvette captured the hearts of car enthusiasts, combining stylish looks with cutting-edge technology. Today, Chevrolet is pioneering the electric vehicle market with models like the Bolt and the upcoming Silverado EV, aiming to combine environmental responsibility with performance and reliability. Chevrolet\u2019s lineup accommodates all drivers, from those needing fuel-efficient commuting options like the Malibu to thrill-seekers looking for the Corvette\u2019s unmatched power. AutoPro Nashville is a trusted used car dealership in Brentwood, TN, offering a wide selection of quality used Chevrolet vehicles.",
+            "score": 0.015027786,
             "raw_content": null
         },
         {
-            "url": "https://www.f150lightningforum.com/forum/threads/i-am-very-confused-for-how-to-figure-out-a-good-deal-price.19297/",
-            "title": "I am very confused for how to figure out a \"good deal\" price",
-            "content": "Apr 28, 2024 \u00b7 You can look it up on irs.gov. If I remember correctly, it is just MSRP plus factory installed options. I think it also excludes dealer\u00a0...Missing:  objections | Show results with:objections",
-            "score": 0.12548296,
+            "url": "https://www.f150gen14.com/forum/threads/price-protection-new-vehicle-orders.10006/",
+            "title": "Price Protection - New Vehicle orders | F150gen14 -- 2021+ Ford F ...",
+            "content": "Apr 12, 2022 \u00b7 Ford reimburses the selling dealership with an adjustment invoice on 05/15/22 automatically for price difference as long as it is sold to the\u00a0...Missing:  objections proof",
+            "score": 0.54361504,
             "raw_content": null
         },
         {
-            "url": "https://www.f150lightningforum.com/forum/threads/price-protection-any-way-to-know-when-the-dealer-receives-from-ford.14587/",
-            "title": "any way to know when the dealer receives $$ from Ford?",
-            "content": "Feb 17, 2023 \u00b7 So here's the million dollar (or in my case $9100) question - is there any way for us to know when / if the selling dealer receives the\u00a0...Missing:  objections | Show results with:objections",
-            "score": 0.10199143,
+            "url": "https://www.youtube.com/watch?v=bO64a4ltE-U",
+            "title": "Handling the Price Objection Using a Third party Proof Statement",
+            "content": "Apr 9, 2022 \u00b7 If you are not adding to the MSRP this document is PURE GOLD. The internet can be your friend as well. Automotive sales training, car sales",
+            "score": 0.30071527,
             "raw_content": null
         },
         {
             "url": "https://www.f150forum.com/f2/new-price-negotiation-not-556379/",
             "title": "New price negotiation or not? - Community of Ford Truck Fans",
-            "content": "Mar 29, 2024 \u00b7 Look up the invoice price of the Truck you are interested in on Kelley Blue Book, Edmonds, and JD Power. Offer 500$ over invoice. Check multiple dealers if you",
-            "score": 0.07185793,
+            "content": "- Ford F150 Forum - Community of Ford Truck Fans Ford F150 Forums Ford F150 Forums *    Posts Ford F150 Forum - Community of Ford Truck Fans > Ford F150 Forums > General F150 Discussion View First Unread Thread Tools Search this Thread  Log In | Register Ford F150 Forum - Community of Ford Truck Fans Ford F150 Forums Show Threads \u00a0 Show Posts Posts: 40 Posts: 12,834 Posts: 3,664 Posts: 40 Posts: 7 Posts: 28 Another semi local dealer didn't even want to talk to me when I told the salesman what I was looking at for price. Posts: 7 Posts: 1,183 Another semi local dealer didn't even want to talk to me when I told the salesman what I was looking at for price. Posts: 40 Posts: 1,511",
+            "score": 0.22156994,
             "raw_content": null
         },
         {
-            "url": "https://bonnercountydailybee.com/news/2025/feb/19/7-legals-for-february-19-2025/",
-            "title": "Legals for February, 19 2025 | Bonner County Daily Bee",
-            "content": "2 days ago \u00b7 ... Objections may be filed by any person who can show the court a good ... 150 (Show of Record as Page 150) of Heavenly Hills, Records of",
-            "score": 0.037078608,
+            "url": "https://www.instagram.com/thekerripaul/reel/DGT736rJtZx/",
+            "title": "all I wanted for V-day was practical luxuries now the fact that he uses ...",
+            "content": "2 days ago \u00b7 Proof that helicopter parenting doesn't end past the age of 18. ... Ford F-150\u00ae Platinum\u00ae truck. As entrepreneurs and lifestyle and",
+            "score": 0.21231405,
             "raw_content": null
         },
         {
-            "url": "https://www.law360.com/",
-            "title": "Law360: Legal News & Analysis on Litigation, Policy, Deals",
-            "content": "Try our Advanced Search for more refined results\nLaw360\nThe Practice of Law\nLaw360 Pulse\nBusiness of Law\nLaw360 Authority\nDeep News & Analysis\nTax Authority\nEmployment Authority\nInsurance Authority\nReal Estate Authority\nBankruptcy Authority\nHealthcare Authority\nGlobal\nLaw360 UK\nActivision Blizzard Inks $54M Deal In Calif. By Andrew Karpan\nA federal judge in California has decided to tear up some of the allegations in VLSI's $900 million lawsuit against Intel, deciding in advance of a trial next year that there isn't any way Intel's microchips in the U.S. do what's described in one of the licensing company's patents, and that a second patent is indefinite.\n By Craig Clough\nA New York judge\u00a0on Friday tossed a lawsuit brought by Chubb Insurance against the\u00a0Archdiocese of New York over a slew of sex abuse complaints the church is facing, saying that under the \"plain language\" of the policies the church held, it is \"obvious\" they cover the lawsuits.\n By Hailey Konnath\nThe Fifth Circuit on Friday vacated the Federal Trade Commission's order blocking Illumina's $8 billion reacquisition of cancer-detection company Grail, agreeing with the commission that the combination is \"likely to substantially lessen competition,\" but finding that the FTC used the wrong legal standard in part of its analysis.\n By Ivan Moreno\nThe U.S. Supreme Court decided the First Amendment does not shield a poop-themed dog toy from infringement claims in a suit over a parody of Jack Daniel's famous whiskey bottles, and the justices concluded federal trademark law does not extend to conduct in other countries.",
-            "score": 0.025606656,
+            "url": "https://www.lightningowners.com/threads/edit-resolved-urgent-dealer-said-no-price-protection-5k-for-my-f-150-lightning-order-when-picking-up-what-to-do.3230/",
+            "title": "Resolved! Urgent!!! Dealer Said No Price Protection ($5K) For My F ...",
+            "content": "Dealer Said No Price Protection ($5K) For My F-150 Lightning Order, When Picking Up, What to do? 2022+ Ford F-150 Lightning Forum  Dealer Said No Price Protection ($5K) For My F-150 Lightning Order, When Picking Up, What to do? I saw several posts about this from last year and heard that FORD will reimburse the $5K to dealer about a month/45 days after the sales recorded and dealer will write a check (may or may not be $5K) back to the consumer. LightningOwners.com - Ford F-150 Lightning Forum, Community And Owner\u2019s Club. 2022+ F-150 Lightning General Discussion Forum F-150 Lightning Charging & Batteries Ford F-150 Lightning Complaints, Issues & Problems 2022+ Ford F-150 Lightning News New Member Introductions 2022+ Ford F-150 Lightning Forum ",
+            "score": 0.19877902,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.f150gen14.com/forum/threads/price-breakdown-sheet-from-dealer-wrote-msrp-2000-more-than-window-sticker-kind-of-confused.22365/",
+            "title": "Price Breakdown Sheet from Dealer.....Wrote MSRP $2000 More ...",
+            "content": "Price Breakdown Sheet from Dealer.....Wrote MSRP $2000 More than Window Sticker...Kind of Confused | F150gen14 -- 2021+ Ford F-150, Tremor, Raptor Forum (14th Gen) | News, Owners, Community, Discussions New posts Trending Featured threads Search forums Search images Price Breakdown Sheet from Dealer.....Wrote MSRP $2000 More than Window Sticker...Kind of Confused Yet dealers like to include the Ford discount in their \"Savings\" to make it seem like you're getting a better deal. Koons Ford out of Maryland/Virginia is showing trucks with that type of pricing, but been told by multiple people (non-dealers) that they advertise a sale price but majority of the time you can't get that listed price.",
+            "score": 0.19132802,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.f150forum.com/f129/price-negotiated-msrp-562954/",
+            "title": "Price Negotiated from MSRP - Community of Ford Truck Fans",
+            "content": "Price Negotiated from MSRP - Ford F150 Forum - Community of Ford Truck Fans Ford F150 Forums Ford F150 Forums *    Posts Ford F150 Forum - Community of Ford Truck Fans > Late Model F150s > 2021+ Ford F150 View First Unread Thread Tools Search this Thread  Log In | Register Ford F150 Forum - Community of Ford Truck Fans Show Threads \u00a0 Show Posts Find All Liked Posts Posts: 144 Posts: 1,429 I expect the 2024 will come in about $5k below MSRP, plus I gave them a $2.5k Ford private incentive good for purchase or order. Posts: 144 Posts: 144 Posts: 1,183 Posts: 24 Posts: 1,756 Posts: 260 Posts: 58 Posts: 1,410",
+            "score": 0.17163001,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.f150lightningforum.com/forum/threads/i-am-very-confused-for-how-to-figure-out-a-good-deal-price.19297/",
+            "title": "I am very confused for how to figure out a \"good deal\" price",
+            "content": "I am very confused for how to figure out a \"good deal\" price | Ford Lightning Forum For F-150 Lightning EV Pickup: News, Owners, Discussions, Community 2023 Ford F150 Lightning Lariat ER If you click on windows sticker you can see the options and the MSRP price which was 79,515 if you click on the button that says cash it will show you what the discounts are which are $2500 dealer discount and the $5000 retail bonus cash so it is not including the $7500 tax credit which you can have the dealer take off the price if you qualify or you can take it off your 2024 taxes if you qualify. 2023 Ford F150 Lightning Lariat ER",
+            "score": 0.113353856,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.reddit.com/r/f150/comments/1hkk9pe/can_you_negotiate_on_sales_price_these_days/",
+            "title": "Can you negotiate on sales price these days? : r/f150 - Reddit",
+            "content": "Reddit - Dive into anything Open menu Open navigation  Go to Reddit Home Get App Get the Reddit app Log In Log in to Reddit Go to f150 r/f150 r/f150 New to Reddit?Create your account and connect with a world of communities. Reddit Rules Privacy Policy User Agreement Reddit, Inc. Action Movies & Series Animated Movies & Series Comedy Movies & Series Crime, Mystery, & Thriller Movies & Series Documentary Movies & Series Drama Movies & Series Fantasy Movies & Series Horror Movies & Series Movie News & Discussion Reality TV Romance Movies & Series Sci-Fi Movies & Series Superhero Movies & Series*   TV News & Discussion About Reddit Advertise Help Blog Careers*   Press Communities Best of Reddit Topics",
+            "score": 0.0983996,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.pressandguide.com/2025/02/20/congress-budget/",
+            "title": "Senate ready to stay up all night to pass GOP budget over ...",
+            "content": "2 days ago \u00b7 Senate ready to stay up all night to pass GOP budget over objections ... $150 billion boost to the Pentagon and about $20 billion for the Coast",
+            "score": 0.022424964,
             "raw_content": null
         },
         {
             "url": "https://www.harbortruckblog.com/2020/06/",
             "title": "June 2020 - Harbor Truck Bodies Blog",
-            "content": "... core features such as making phone calls and selecting music. ... integration ... Hydraulic assist for additional ease of use, Zinc plated and powder coated for",
-            "score": 0.66621506,
-            "raw_content": null
-        },
-        {
-            "url": "https://kanerika.com/blogs/uipath-vs-power-automate/",
-            "title": "UiPath Vs Power Automate: The Ultimate RPA Showdown You Need",
-            "content": "AspectUiPathPower AutomateOriginFounded in 2005 in Bucharest, RomaniaPreviously known as Microsoft Flow, part of Microsoft Power PlatformMarket StatusRanked #1 in RPA market share by Gartner in 2019A major player in RPA market, known for integration with Microsoft productsKey FocusAutomating digital tasks using AI and MLAutomating recurring tasks, part of a broader suite of toolsUse CasesFinancial process automation\u00a0Customer serviceHealthcare data managementWorkflow automation in Office 365\u00a0Data Integration and synchronizationEvent-driven notificationsCore FeaturesDrag and drop workflow, scalabilityAdvanced screen scraping\u00a0Centralized repositorySecurity AnalyticsVarious integrations User-friendly interfaceTemplates and pre-built flows workflow automationAI integrationdata synchronizationAPI connectivityuser-friendly UIcollaboration toolscustomizationArchitectureSophisticated multi-node deployment, three-layered architectureHub-and-spoke inspired architecture, focused on workflow automation within Microsoft ecosystemPricing ModelsFree accessPro Plan starting at $420/monthEnterprise PlanFree trialPremium Plan at $15/user/monthProcess Plan at $150/bot/month additional plansFlexible $0.60 per flow run\u00a0Learning CurveVaries based on user background, estimated 40 hours for Foundation courseDescribed as \u201cobjective-oriented\u201d, little to no learning curve for basic tasks",
-            "score": 0.04773132,
+            "content": "All-new Ford F-150 takes America\u2019s truck of choice for work and recreation to the next level, targeting to deliver the most maximum towing, payload, torque and horsepower of any full-size light-duty pickup, with ingenious features that make customers even more productive and new technology like over-the-air updates and SYNC\u00ae 4 It targets the most towing, payload, torque and horsepower of any light-duty full-size pickup, introduces all-new features to increase customer productivity, has new connected vehicle innovations such as over-the-air updates that help keep F-150 at the forefront of purposeful technology, and an available all-new 3.5-liter PowerBoost\u2122 hybrid powertrain with Pro Power Onboard\u2122 \u2013 an integrated power generator.",
+            "score": 0.4896749,
             "raw_content": null
         }
     ]

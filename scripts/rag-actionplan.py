@@ -35,9 +35,13 @@ os.makedirs('temp_files', exist_ok=True)
 os.makedirs('output', exist_ok=True)
 
 try:
-    # Load data from benefits_chunks.json
+    # Load data from benefits_chunks.json and benefits_answers.json
     with open('temp_files/benefits_chunks.json', 'r') as f:
         chunks = json.load(f)
+    
+    # Load benefits answers
+    with open('temp_files/benefits_answers.json', 'r') as f:
+        answers = json.load(f)
     
     # Format chunks data
     formatted_content = []
@@ -53,7 +57,8 @@ try:
             "chunk_id": chunk['chunk_id'],
             "title": chunk['title'],
             "url": chunk['url'],
-            "content": chunk['content']
+            "content": chunk['content'],
+            "raw_content": chunk.get('raw_content', '')  # Using get() in case raw_content isn't present
         }
         
         # Add to log array
@@ -63,7 +68,22 @@ try:
         formatted_parts = [
             f"Title: {chunk['title']}",
             f"URL: {chunk['url']}",
-            f"Content: {chunk['content']}"
+            f"Content: {chunk['content']}",
+            f"Raw Content: {chunk.get('raw_content', '')}",  # Using get() in case raw_content isn't present
+            f"Chunk ID: {chunk['chunk_id']}"
+        ]
+        formatted_content.append("\n".join(formatted_parts))
+
+    # Process answers data
+    for answer in answers:
+        content_parts = {
+            "query": answer['query'],
+            "answer": answer['answer']
+        }
+        content_parts_log.append(content_parts)
+        formatted_parts = [
+            f"Query: {answer['query']}",
+            f"Answer: {answer['answer']}"
         ]
         formatted_content.append("\n".join(formatted_parts))
 
@@ -72,7 +92,17 @@ try:
         json.dump(content_parts_log, parts_log, indent=2)
     print("\nContent parts saved to logs/action_plan_content_parts.json")
 
-    context = "\n---\n".join(formatted_content)
+    data = [{
+        "page_content": "\n---\n".join(formatted_content),
+        "sources": sources
+    }]
+
+    # Log formatted data
+    with open('logs/action_plan_formatted_data.json', 'w') as log_file:
+        json.dump(data, log_file, indent=4)
+    print("\nFormatted data saved to logs/action_plan_formatted_data.json")
+
+    context = data[0]["page_content"]
 
     # Define the action plan template for Section 7
     action_plan_template = """
@@ -113,7 +143,7 @@ try:
     question1 = f""" 
     You are tasked with analyzing provided content about {PRODUCT_NAME} to create an action plan for sealing the deal in a sales battlecard. This task aims to identify the most compelling benefits, actionable next steps, and sales strategies to close the sale effectively.
 
-    Carefully read and analyze the provided content about {PRODUCT_NAME}. Focus on information that highlights the product’s strengths, benefits, competitive advantages over {COMPETITOR1} and {COMPETITOR2}, and any clues about customer needs or sales opportunities.
+    Carefully read and analyze the provided content about {PRODUCT_NAME}, which includes both product benefits and specific answers to common questions. Focus on information that highlights the product's strengths, benefits, competitive advantages over {COMPETITOR1} and {COMPETITOR2}, and any clues about customer needs, questions, or sales opportunities.
 
     Here is the content to analyze:
     {context}

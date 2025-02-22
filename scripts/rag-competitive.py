@@ -48,21 +48,21 @@ try:
     with open('temp_files/competitor1_chunks.json', 'r') as f:
         competitor1_data = json.load(f)
         for chunk in competitor1_data:
-            content = chunk.get('notes', '') + "\nTopics:\n" + chunk.get('topics', '')
+            content = chunk.get('content', '') 
             all_documents.append({"page_content": content, "metadata": {"source": "competitor1"}})
     
     # Load competitor2 summaries
     with open('temp_files/competitor2_chunks.json', 'r') as f:
         competitor2_data = json.load(f)
         for chunk in competitor2_data:
-            content = chunk.get('notes', '') + "\nTopics:\n" + chunk.get('topics', '')
+            content = chunk.get('content', '') 
             all_documents.append({"page_content": content, "metadata": {"source": "competitor2"}})
     
     # Load benefits summaries
     with open('temp_files/benefits_chunks.json', 'r') as f:
         benefits_data = json.load(f)
         for chunk in benefits_data:
-            content = chunk.get('notes', '') + "\nTopics:\n" + chunk.get('topics', '')
+            content = chunk.get('content', '') 
             all_documents.append({"page_content": content, "metadata": {"source": "benefits"}})
     
     print(f"Loaded {len(all_documents)} total documents")

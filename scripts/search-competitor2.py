@@ -17,15 +17,18 @@ print("Welcome!")
 # Define search queries for competitive analysis
 search_queries = [
     f'"{COMPETITOR2}" product features overview capabilities',
-    f'"{COMPETITOR2}" vs "{PRODUCT_NAME}" comparison differences',
-    f'"{COMPETITOR2}" vs "{COMPETITOR1}" comparison differences',
-    #f'"{COMPETITOR2}" pricing plans enterprise business',
+    f'"{PRODUCT_NAME}" vs "{COMPETITOR2}" performance comparison',
+    f'"{PRODUCT_NAME}" vs "{COMPETITOR2}" quality comparison',
+    f'"{PRODUCT_NAME}" vs "{COMPETITOR2}" reliability comparison',
+    f'"{PRODUCT_NAME}" vs "{COMPETITOR2}" safety comparison',
+    f'"{PRODUCT_NAME}" vs "{COMPETITOR2}" ease of use comparison',
+    f'"{PRODUCT_NAME}" vs "{COMPETITOR2}" features comparison',
+    f'"{PRODUCT_NAME}" vs "{COMPETITOR2}" value for money comparison',
+    f'"{PRODUCT_NAME}" vs "{COMPETITOR2}" customer service comparison',
+    f'"{PRODUCT_NAME}" vs "{COMPETITOR2}" sustainability comparison',
+    f'"{PRODUCT_NAME}" vs "{COMPETITOR2}" warranty comparison',
     f'"{COMPETITOR2}" data sheet offer pricing',
-    #f'"{COMPETITOR2}" reference architecture design guide installation guide',
     f'"{COMPETITOR2}" limitations disadvantages drawbacks',
-    #f'"{COMPETITOR2}" security compliance certifications',
-    #f'"{COMPETITOR2}" integration developer api',
-    #f'"{COMPETITOR2}" deployment options architecture',
     f'{COMPETITOR2} "competitor comparison" "why choose"',
     f'{COMPETITOR2} "pricing objections" "value proof"',
     f'{COMPETITOR2} "core features" "integration" "ease of use"',
@@ -39,7 +42,6 @@ for query in search_queries:
         query=query,
         search_depth="advanced",
         max_results=10,  # Fewer results per query since we have multiple queries
-        search_type="comprehensive",
         include_raw_content=False
     )
     all_results.extend(search_result.get('results', []))

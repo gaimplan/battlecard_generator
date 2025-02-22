@@ -1,51 +1,111 @@
 {
     "action_plan": {
         "value_that_closes": [
-            "Maximum available towing capacity of up to 13,300 pounds for demanding jobs.",
-            "Exceptional power and versatility as the ultimate work truck.",
-            "Advanced safety features for a secure driving experience.",
-            "TurboMax engine delivers 310 horsepower at 5600 rpm.",
-            "Practical and functional truck bed for various needs."
+            "Powerful and versatile engine options, including the TurboMax engine with 310 hp and 430 lb-ft of torque, and the Duramax diesel with 305 hp and 495 lb-ft of torque, catering to diverse performance needs.",
+            "High towing capacity, with the ability to tow up to 13,300 lbs when properly equipped, surpassing the Ram 1500 and suitable for various hauling requirements.",
+            "Advanced trailering technology, featuring up to 14 camera views and a trailering app, enhancing safety and convenience during towing.",
+            "Spacious and adaptable interior, offering comfortable seating, ample legroom, and clever storage solutions, making it suitable for both work and family needs.",
+            "Comprehensive safety features, including Chevy Safety Assist, StabiliTrak, and available Super Cruise hands-free driving, providing peace of mind on every drive."
         ],
         "next_steps": [
-            "Schedule a test drive to experience the Silverado 1500's performance.",
-            "Provide a detailed demonstration of the advanced trailering technology and 14 available camera views.",
-            "Offer a personalized consultation to determine the ideal trim and options based on the customer's needs and budget.",
-            "Present a side-by-side comparison of the Silverado 1500 with competitors like the Ford F-150 and RAM 1500, highlighting key advantages.",
-            "Review available financing and lease options to find the best fit for the customer's financial situation."
+            "Schedule a test drive to demonstrate the Silverado 1500's power and handling.",
+            "Showcase the Durabed's features and Multi-Flex Tailgate to highlight cargo management capabilities.",
+            "Demonstrate the Chevrolet Infotainment 3 Premium system and its Google built-in compatibility.",
+            "Review the Chevy Safety Assist package and available driver-assistance technologies.",
+            "Discuss the Chevrolet Powertrain Warranty and available extended coverage options."
         ],
         "sales_playbook": [
-            "Emphasize the Silverado 1500's reliability and dependability, positioning it as a long-term investment.",
-            "Highlight the blend of power, durability, and modern features that make the Silverado 1500 stand out.",
-            "Focus on the integrated trailering technology and advanced safety features to address customer concerns about safety and ease of use.",
-            "Use customer testimonials and J.D. Power's reliability rating (80 out of 100) to build trust and credibility.",
-            "Tailor the presentation to the customer's specific needs, whether they are looking for a work truck, an off-road vehicle, or a luxurious top-of-the-line trim."
+            "Emphasize the Silverado 1500's versatility, highlighting its suitability for both work and family needs.",
+            "Position the Silverado 1500 as a leader in towing technology, showcasing its advanced camera systems and trailering app.",
+            "Highlight the availability of Super Cruise, emphasizing its hands-free driving capabilities and added comfort during long hauls.",
+            "Address potential reliability concerns by focusing on the comprehensive warranty and available service options.",
+            "Compare the Silverado 1500's features and capabilities directly against the Ford F-150 and Ram 1500, emphasizing its strengths in specific areas."
         ]
     },
     "sources": [
         {
-            "title": "Benefits of the New Chevrolet Silverado 1500",
-            "url": "https://www.fredbeanschevrolet.com/blog/2024/march/26/benefits-of-the-new-chevrolet-silverado-1500.htm"
+            "title": "Chevrolet Silverado 1500 Features and Specs - Car and Driver",
+            "url": "https://www.caranddriver.com/chevrolet/silverado-1500/specs"
+        },
+        {
+            "title": "2025 Chevrolet Silverado 1500 Review | Interior & Tow Specs",
+            "url": "https://www.medlinchevrolet.com/research-silverado-1500?srsltid=AfmBOopeEWRdQzXZY4VO7_dlKNr35LPJhwa6iSgUPRwLt9yRylfDgpPg"
+        },
+        {
+            "title": "2025 Chevy Silverado 1500 | Pickup Truck | Chevrolet",
+            "url": "https://www.chevrolet.com/trucks/silverado/1500"
+        },
+        {
+            "title": "2025 Chevrolet Silverado 1500 Performance - U.S. News Best Cars",
+            "url": "https://cars.usnews.com/cars-trucks/chevrolet/silverado-1500/performance"
         },
         {
             "title": "7 of the Best Features in the 2024 Chevrolet Silverado 1500",
             "url": "https://www.chevroletofottawa.com/blog/2024/july/29/7-of-the-best-features-in-the-2024-chevrolet-silverado-1500.htm"
         },
         {
-            "title": "Why the Chevrolet Silverado 1500 is the Ultimate Work Truck",
-            "url": "https://www.cavenderchevrolet.com/why-the-chevrolet-silverado-1500-is-the-ultimate-work-truck/?srsltid=AfmBOorjdo8yoNsdNY9GI6S5y2GdNhlH6XR2w-m7IeJ0m6G1I_KvZgvi"
+            "title": "The Top Three Reasons You Need a Chevy Silverado 1500",
+            "url": "https://www.downtown.chevyman.com/the-top-three-reasons-you-need-a-chevy-silverado-1500/"
         },
         {
-            "title": "2024 Silverado 1500 Features & Specs - Bob Steele Chevrolet",
-            "url": "https://www.bobsteelechevy.com/2024-chevrolet-silverado-1500/?srsltid=AfmBOoql-5tP2ay0VpyvQbMManb72UWwLzdht3b6SWHHI46LV4YDMAr7"
+            "title": "2025 Chevrolet Silverado 1500 Features & Specs",
+            "url": "https://www.autonationchevroletdoral.com/models/chevrolet-silverado+1500"
         },
         {
-            "title": "Safety Features in the Silverado 1500 | Woodhouse Chevrolet",
-            "url": "https://www.woodhousechevyom.com/silverado-1500-safety-features/"
+            "title": "2024 Chevy Silverado 1500 | Pickup Truck | Chevrolet",
+            "url": "https://www.chevrolet.com/trucks/previous-year/silverado/1500"
         },
         {
-            "title": "A Definitive Guide to Chevy Silverado 1500 Reliability - Summit GM",
-            "url": "https://www.summitgm.ca/guide-to-chevy-silverado-1500-reliability/?srsltid=AfmBOopN4WBSLlCSgz2XJo40cNMH7lil1Gtj1anulaybvCLTVrupQmRz"
+            "title": "2024 Chevrolet Silverado 1500 Trims | WT vs Custom vs LT vs LTZ",
+            "url": "https://www.ilovegjovik.com/research-silverado-1500-trims/"
+        },
+        {
+            "title": "2024 Chevrolet Silverado 1500 Reliability Ratings & Costs - RepairPal",
+            "url": "https://repairpal.com/reliability/chevrolet/silverado-1500"
+        },
+        {
+            "title": "2021 Silverado reliability? Considering a purchase",
+            "url": "https://www.silveradosierra.com/threads/2021-silverado-reliability-considering-a-purchase.736861/"
+        },
+        {
+            "title": "Top Safety Features on the 2024 Chevy Silverado",
+            "url": "https://www.sharpnackdirect.com/top-safety-features-on-the-2024-chevy-silverado.html"
+        },
+        {
+            "title": "2024 Chevrolet Silverado 1500 ZR2 Interior Review: So Close to ...",
+            "url": "https://www.chevyzr2.com/threads/2024-chevrolet-silverado-1500-zr2-interior-review-so-close-to-perfection.2229/"
+        },
+        {
+            "title": "Used Chevrolet Silverado 1500 pricing trends - Car Gurus",
+            "url": "https://www.cargurus.com/research/price-trends/Chevrolet-Silverado-1500-d630"
+        },
+        {
+            "title": "2024 Chevrolet Silverado 1500 Consumer Reviews - Cars.com",
+            "url": "https://www.cars.com/research/chevrolet-silverado_1500-2024/consumer-reviews/"
+        },
+        {
+            "title": "The New Chevrolet Warranty Program Explained",
+            "url": "https://www.phelps-chevrolet.com/the-new-chevrolet-warranty-program-explained.html"
+        },
+        {
+            "title": "What Does the Chevrolet Powertrain Warranty Cover?",
+            "url": "https://www.yourchevy.com/blogs/6719/what-does-the-chevrolet-powertrain-warranty-cover"
+        },
+        {
+            "title": "Chevy Silverado 1500 Vs. The Competition | PAUL - RICHARD, INC.",
+            "url": "https://www.paulrichardgm.com/chevy-silverado-1500-vs--the-competition.htm"
+        },
+        {
+            "title": "Chevrolet Silverado vs. the Competition - 2025 Model Comparison",
+            "url": "https://www.schumacherchevy.net/chevrolet-silverado-vs-competition.htm"
+        },
+        {
+            "title": "2024 Chevy Silverado 1500 Prices, Reviews, and Pictures | Edmunds",
+            "url": "https://www.edmunds.com/chevrolet/silverado-1500/2024/"
+        },
+        {
+            "title": "Are the new Silverado 1500 reliable? - Ewald Chevrolet",
+            "url": "https://www.ewaldchevrolet.com/blogs/4298/are-the-new-silverado-1500-reliable/"
         }
     ]
 }

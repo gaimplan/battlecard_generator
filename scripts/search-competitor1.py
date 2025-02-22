@@ -17,19 +17,21 @@ print("Welcome!", flush=True)
 # Define search queries for competitive analysis
 search_queries = [
     f'"{COMPETITOR1}" product features overview capabilities',
-    f'"{COMPETITOR1}" vs "{PRODUCT_NAME}" comparison differences',
-    f'"{COMPETITOR1}" vs "{COMPETITOR2}" comparison differences',
-    #f'"{COMPETITOR1}" pricing plans enterprise business',
+    f'"{PRODUCT_NAME}" vs "{COMPETITOR1}" performance comparison',
+    f'"{PRODUCT_NAME}" vs "{COMPETITOR1}" quality comparison',
+    f'"{PRODUCT_NAME}" vs "{COMPETITOR1}" reliability comparison',
+    f'"{PRODUCT_NAME}" vs "{COMPETITOR1}" safety comparison',
+    f'"{PRODUCT_NAME}" vs "{COMPETITOR1}" ease of use comparison',
+    f'"{PRODUCT_NAME}" vs "{COMPETITOR1}" features comparison',
+    f'"{PRODUCT_NAME}" vs "{COMPETITOR1}" value for money comparison',
+    f'"{PRODUCT_NAME}" vs "{COMPETITOR1}" customer service comparison',
+    f'"{PRODUCT_NAME}" vs "{COMPETITOR1}" sustainability comparison',
+    f'"{PRODUCT_NAME}" vs "{COMPETITOR1}" warranty comparison',
     f'"{COMPETITOR1}" data sheet offer pricing',
-    #f'"{COMPETITOR1}" reference architecture design guide installation guide',
     f'"{COMPETITOR1}" limitations disadvantages drawbacks',
-    #f'"{COMPETITOR1}" security compliance certifications',
-    #f'"{COMPETITOR1}" integration developer api',
-    #f'"{COMPETITOR1}" deployment options architecture',
     f'{COMPETITOR1} "competitor comparison" "why choose"',
     f'{COMPETITOR1} "pricing objections" "value proof"',
     f'{COMPETITOR1} "core features" "integration" "ease of use"',
-    #f'{COMPETITOR1} reviews "what users say" site:g2.com OR site:trustradius.com'
 ]
 
 all_results = []
@@ -39,7 +41,6 @@ for query in search_queries:
         query=query,
         search_depth="advanced",
         max_results=10,  # Fewer results per query since we have multiple queries
-        search_type="comprehensive",
         include_raw_content=False
     )
     all_results.extend(search_result.get('results', []))
@@ -65,7 +66,6 @@ chunk_id = 1
 
 for result in unique_results:
   
-    
     # Create chunk
     chunk = {
         'chunk_id': chunk_id,

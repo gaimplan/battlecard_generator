@@ -1,24 +1,24 @@
 [
     {
-        "topic": "Enhanced Capability and Performance",
+        "topic": "Powerful and Versatile Engine Options",
         "sections": [
             {
                 "section_name": "Discovery Questions",
                 "statements": [
                     {
-                        "statement": "What are the biggest challenges you currently face with your existing truck or fleet in terms of towing capacity or payload?"
+                        "statement": "What are the most challenging tasks you regularly perform with your current truck, and how does its engine hold up?"
                     },
                     {
-                        "statement": "How often do you find yourselves needing to make multiple trips due to load limitations?"
+                        "statement": "Have you ever felt limited by your current truck's engine power or torque when towing or hauling?"
                     },
                     {
-                        "statement": "Are you satisfied with the fuel efficiency you're currently getting, especially when towing or hauling heavy loads?"
+                        "statement": "What are your biggest frustrations with your current truck's fuel economy, especially when considering its power output?"
                     },
                     {
-                        "statement": "What kind of terrain or weather conditions do you typically encounter in your work, and how well does your current vehicle handle them?"
+                        "statement": "Are you looking for a truck that can handle both daily driving and more demanding tasks without sacrificing performance?"
                     },
                     {
-                        "statement": "How important is a comfortable and responsive driving experience to you, especially during long workdays?"
+                        "statement": "How important is having a variety of engine choices to suit different needs and preferences?"
                     }
                 ]
             },
@@ -26,19 +26,19 @@
                 "section_name": "Needs Assessment Questions",
                 "statements": [
                     {
-                        "statement": "What is the maximum towing capacity you require for your typical hauling needs?"
+                        "statement": "What is the maximum towing capacity you require for your truck?"
                     },
                     {
-                        "statement": "What are your priorities in terms of engine performance \u2013 are you looking for maximum power, fuel efficiency, or a balance of both?"
+                        "statement": "What type of driving do you do most often (e.g., city, highway, off-road), and what engine characteristics are most important for that driving style?"
                     },
                     {
-                        "statement": "How important is having multiple engine options to choose from to best suit your specific needs?"
+                        "statement": "Are you interested in a diesel engine for its torque and towing capabilities, or do you prefer a gasoline engine?"
                     },
                     {
-                        "statement": "Do you require four-wheel drive for enhanced traction and control in challenging conditions?"
+                        "statement": "Which trim levels are you considering, and what standard features are most important to you?"
                     },
                     {
-                        "statement": "What level of ride comfort and stability do you need, especially when carrying heavy loads over rough terrain?"
+                        "statement": "What is your budget for a new truck, and how does engine choice factor into that budget?"
                     }
                 ]
             },
@@ -46,19 +46,19 @@
                 "section_name": "Qualification Criteria",
                 "statements": [
                     {
-                        "statement": "Prospect requires a towing capacity of at least X pounds to avoid multiple trips."
+                        "statement": "Requires a truck with at least 310 horsepower for daily driving and occasional towing."
                     },
                     {
-                        "statement": "Prospect prioritizes fuel efficiency and is looking for a measurable improvement over their current vehicle."
+                        "statement": "Needs a truck with a high torque output (430 lb-ft or more) for hauling heavy loads."
                     },
                     {
-                        "statement": "Prospect values having multiple engine options to choose from to tailor the truck to their specific needs."
+                        "statement": "Prefers a diesel engine option for its fuel efficiency and towing capabilities."
                     },
                     {
-                        "statement": "Prospect requires four-wheel drive for consistent performance in various weather and terrain conditions."
+                        "statement": "Values having multiple engine choices to tailor the truck's performance to specific needs."
                     },
                     {
-                        "statement": "Prospect needs a comfortable and stable ride, even when carrying heavy loads, to reduce driver fatigue."
+                        "statement": "Is considering trims where the TurboMax engine is standard (WT, Custom, Custom Trail Boss, LT, RST and LT Trail Boss)."
                     }
                 ]
             },
@@ -66,44 +66,44 @@
                 "section_name": "Red Flags",
                 "statements": [
                     {
-                        "statement": "Prospect is primarily concerned with the lowest possible purchase price and is unwilling to invest in enhanced capability or performance features."
+                        "statement": "Is primarily concerned with fuel efficiency and doesn't prioritize power or towing capacity."
                     },
                     {
-                        "statement": "Prospect's hauling needs are minimal and do not require a truck with high towing capacity or payload."
+                        "statement": "Is only interested in the lowest possible price point and is unwilling to consider higher trims with more powerful engine options."
                     },
                     {
-                        "statement": "Prospect is satisfied with their current vehicle's fuel efficiency and is not interested in exploring options for improvement."
+                        "statement": "Has no need for towing or hauling capabilities and only uses the truck for light-duty tasks."
                     },
                     {
-                        "statement": "Prospect operates exclusively in urban environments with paved roads and does not require four-wheel drive or advanced suspension systems."
+                        "statement": "Is set on a specific engine configuration not available on the Silverado 1500."
                     },
                     {
-                        "statement": "Prospect believes that all trucks in the segment offer similar levels of capability and performance and does not recognize the value of the Silverado 1500's specific features."
+                        "statement": "Is unwilling to consider a turbocharged four-cylinder engine, regardless of its performance capabilities."
                     }
                 ]
             }
         ]
     },
     {
-        "topic": "Advanced Technology for Increased Productivity",
+        "topic": "Enhanced Towing and Trailering Capabilities",
         "sections": [
             {
                 "section_name": "Discovery Questions",
                 "statements": [
                     {
-                        "statement": "What are the biggest challenges your team faces in maintaining efficiency and minimizing downtime on the job site?"
+                        "statement": "What are the biggest challenges you currently face when towing or hauling with your current vehicle?"
                     },
                     {
-                        "statement": "How important is it for your team to stay connected and informed while on the road or at remote job locations?"
+                        "statement": "How often do you find yourself needing to tow or haul heavy loads?"
                     },
                     {
-                        "statement": "What kind of safety incidents or near misses have you experienced due to lack of driver awareness or visibility?"
+                        "statement": "What kind of equipment or materials do you typically tow or haul?"
                     },
                     {
-                        "statement": "What are the current limitations of your vehicles' technology in terms of navigation, communication, and entertainment?"
+                        "statement": "Have you ever experienced any difficulties or safety concerns while towing?"
                     },
                     {
-                        "statement": "How much time is currently spent on tasks that could be automated or streamlined with better technology integration?"
+                        "statement": "What features are most important to you in a vehicle designed for towing?"
                     }
                 ]
             },
@@ -111,19 +111,19 @@
                 "section_name": "Needs Assessment Questions",
                 "statements": [
                     {
-                        "statement": "What specific connectivity features (e.g., wireless Apple CarPlay, Android Auto) are essential for your team's daily operations?"
+                        "statement": "What is the maximum weight you need to be able to tow?"
                     },
                     {
-                        "statement": "What level of integration with smartphones and other devices is required to improve communication and collaboration?"
+                        "statement": "Do you require advanced camera systems to assist with hitching, driving, and parking while towing?"
                     },
                     {
-                        "statement": "Which advanced driver-assistance systems (ADAS) are most important for enhancing safety and reducing accidents?"
+                        "statement": "Are customizable trailer profiles and pre-departure checklists important for your towing needs?"
                     },
                     {
-                        "statement": "What type of infotainment system would best support your drivers' needs for navigation, communication, and entertainment?"
+                        "statement": "Do you need a diesel engine for increased torque and towing capacity?"
                     },
                     {
-                        "statement": "How would improved job site efficiency and reduced downtime impact your overall project timelines and profitability?"
+                        "statement": "Are features like trailer sway control and hill start assist important for your peace of mind while towing?"
                     }
                 ]
             },
@@ -131,19 +131,19 @@
                 "section_name": "Qualification Criteria",
                 "statements": [
                     {
-                        "statement": "The prospect values improved job site efficiency and is actively seeking solutions to reduce downtime."
+                        "statement": "Requires a towing capacity of at least 13,000 lbs."
                     },
                     {
-                        "statement": "The prospect requires enhanced connectivity features to support communication and collaboration among team members."
+                        "statement": "Needs advanced camera technology for enhanced visibility while towing."
                     },
                     {
-                        "statement": "The prospect prioritizes driver safety and is interested in advanced driver-assistance systems."
+                        "statement": "Values customizable trailer profiles and pre-departure checklists."
                     },
                     {
-                        "statement": "The prospect needs a user-friendly infotainment system that integrates seamlessly with their existing technology infrastructure."
+                        "statement": "Prefers a diesel engine for optimal towing performance."
                     },
                     {
-                        "statement": "The prospect is willing to invest in technology upgrades to achieve measurable improvements in productivity and safety."
+                        "statement": "Prioritizes safety features like trailer sway control and hill start assist."
                     }
                 ]
             },
@@ -151,44 +151,44 @@
                 "section_name": "Red Flags",
                 "statements": [
                     {
-                        "statement": "The prospect is primarily focused on the lowest price and is unwilling to pay for advanced technology features."
+                        "statement": "Towing needs are minimal and rarely exceed 8,000 lbs."
                     },
                     {
-                        "statement": "The prospect believes their current vehicles' technology is adequate and sees no need for upgrades."
+                        "statement": "Advanced camera systems and trailering apps are not considered important."
                     },
                     {
-                        "statement": "The prospect is resistant to adopting new technology and prefers traditional methods of communication and task management."
+                        "statement": "Prefers a hybrid or electric powertrain over diesel or gasoline."
                     },
                     {
-                        "statement": "The prospect does not prioritize driver safety and is unwilling to invest in advanced driver-assistance systems."
+                        "statement": "Budget is a primary concern, and the Duramax diesel engine is outside the price range."
                     },
                     {
-                        "statement": "The prospect lacks a clear understanding of how technology can improve job site efficiency and reduce downtime."
+                        "statement": "Primarily uses the truck for commuting and doesn't require towing or hauling capabilities."
                     }
                 ]
             }
         ]
     },
     {
-        "topic": "Unmatched Reliability and Durability",
+        "topic": "Advanced Technology for Enhanced Connectivity and Convenience",
         "sections": [
             {
                 "section_name": "Discovery Questions",
                 "statements": [
                     {
-                        "statement": "What are the biggest challenges you face with your current trucks in terms of maintenance and repairs?"
+                        "statement": "What are the biggest frustrations you experience with the technology in your current vehicle, especially when trying to stay connected on the road?"
                     },
                     {
-                        "statement": "How much downtime are you experiencing due to vehicle breakdowns or maintenance issues?"
+                        "statement": "How important is it for you to have a seamless integration between your smartphone and your vehicle's infotainment system?"
                     },
                     {
-                        "statement": "What are your biggest concerns regarding the lifespan and long-term performance of your work trucks?"
+                        "statement": "Do you often find yourself needing to access real-time traffic updates or navigation while driving?"
                     },
                     {
-                        "statement": "How do unexpected repair costs impact your budget and profitability?"
+                        "statement": "How much do you value having a high-quality audio system for enjoying music or podcasts during your commute or long drives?"
                     },
                     {
-                        "statement": "What features do you value most in a work truck to ensure it can handle demanding tasks and conditions?"
+                        "statement": "What role does technology play in your decision-making process when choosing a new vehicle?"
                     }
                 ]
             },
@@ -196,19 +196,19 @@
                 "section_name": "Needs Assessment Questions",
                 "statements": [
                     {
-                        "statement": "What is your ideal lifespan for a work truck before needing to replace it?"
+                        "statement": "What size touchscreen display would best suit your needs for accessing navigation, entertainment, and vehicle controls?"
                     },
                     {
-                        "statement": "What level of towing and payload capacity do you require for your typical work tasks?"
+                        "statement": "Are wireless smartphone integration features like Apple CarPlay and Android Auto essential for your daily driving experience?"
                     },
                     {
-                        "statement": "How important is it to have a truck with a robust and durable construction to withstand harsh conditions?"
+                        "statement": "How important is it to have a customizable driver information center that displays key vehicle data and alerts?"
                     },
                     {
-                        "statement": "Are you looking for a truck with advanced safety features to protect your drivers and reduce the risk of accidents?"
+                        "statement": "Do you require a Wi-Fi hotspot in your vehicle to stay connected for work or entertainment purposes?"
                     },
                     {
-                        "statement": "What are your expectations for warranty coverage and support in case of unexpected repairs or issues?"
+                        "statement": "Are you interested in a premium audio system, such as Bose, to enhance your in-vehicle listening experience?"
                     }
                 ]
             },
@@ -216,19 +216,19 @@
                 "section_name": "Qualification Criteria",
                 "statements": [
                     {
-                        "statement": "The prospect prioritizes minimizing downtime and maximizing uptime for their work trucks."
+                        "statement": "Must have wireless Apple CarPlay and Android Auto compatibility."
                     },
                     {
-                        "statement": "The prospect is concerned about the long-term cost of ownership, including maintenance and repairs."
+                        "statement": "Requires a large, easy-to-use touchscreen display for navigation and entertainment."
                     },
                     {
-                        "statement": "The prospect values a truck with a proven track record of reliability and durability."
+                        "statement": "Needs a customizable driver information center to display key vehicle data."
                     },
                     {
-                        "statement": "The prospect requires a truck with high-strength steel construction to withstand demanding work conditions."
+                        "statement": "Demands a reliable Wi-Fi hotspot for consistent connectivity on the go."
                     },
                     {
-                        "statement": "The prospect is looking for a comprehensive warranty to protect their investment and minimize financial risk."
+                        "statement": "Values a premium audio system for an enhanced listening experience."
                     }
                 ]
             },
@@ -236,19 +236,19 @@
                 "section_name": "Red Flags",
                 "statements": [
                     {
-                        "statement": "The prospect is solely focused on the lowest upfront price, regardless of long-term reliability and maintenance costs."
+                        "statement": "Prioritizes ruggedness and towing capacity above all else, with little interest in advanced technology features."
                     },
                     {
-                        "statement": "The prospect believes that all trucks are equally reliable and durable, and doesn't see a need to invest in a higher-quality vehicle."
+                        "statement": "Prefers a minimalist interior design with basic infotainment features."
                     },
                     {
-                        "statement": "The prospect is not concerned about downtime or the impact of vehicle breakdowns on their business operations."
+                        "statement": "Is primarily concerned with fuel efficiency and is not willing to invest in higher trim levels with advanced tech."
                     },
                     {
-                        "statement": "The prospect has a history of neglecting vehicle maintenance and repairs, leading to premature failures."
+                        "statement": "Has a strong preference for physical buttons and knobs over touchscreen controls."
                     },
                     {
-                        "statement": "The prospect is only interested in short-term leases and doesn't care about the long-term value or lifespan of the truck."
+                        "statement": "Is not interested in subscription-based services like OnStar or Google built-in."
                     }
                 ]
             }

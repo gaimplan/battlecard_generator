@@ -35,9 +35,13 @@ os.makedirs('temp_files', exist_ok=True)
 os.makedirs('output', exist_ok=True)
 
 try:
-    # Load data from benefits_chunks.json
+    # Load data from benefits_chunks.json and benefits_answers.json
     with open('temp_files/benefits_chunks.json', 'r') as f:
         chunks = json.load(f)
+    
+    # Load benefits answers
+    with open('temp_files/benefits_answers.json', 'r') as f:
+        answers = json.load(f)
     
     # Format chunks data
     formatted_content = []
@@ -53,7 +57,8 @@ try:
             "chunk_id": chunk['chunk_id'],
             "title": chunk['title'],
             "url": chunk['url'],
-            "content": chunk['content']
+            "content": chunk['content'],
+            "raw_content": chunk.get('raw_content', '')  # Using get() in case raw_content isn't present
         }
         
         # Add to log array
@@ -63,7 +68,22 @@ try:
         formatted_parts = [
             f"Title: {chunk['title']}",
             f"URL: {chunk['url']}",
-            f"Content: {chunk['content']}"
+            f"Content: {chunk['content']}",
+            #f"Raw Content: {chunk.get('raw_content', '')}",  # Using get() in case raw_content isn't present
+            f"Chunk ID: {chunk['chunk_id']}"
+        ]
+        formatted_content.append("\n".join(formatted_parts))
+
+    # Process answers data
+    for answer in answers:
+        content_parts = {
+            "query": answer['query'],
+            "answer": answer['answer']
+        }
+        content_parts_log.append(content_parts)
+        formatted_parts = [
+            f"Query: {answer['query']}",
+            f"Answer: {answer['answer']}"
         ]
         formatted_content.append("\n".join(formatted_parts))
 
@@ -72,11 +92,17 @@ try:
         json.dump(content_parts_log, parts_log, indent=2)
     print("\nContent parts saved to logs/strategic_overview_content_parts.json")
 
-    context = "\n---\n".join(formatted_content)
+    data = [{
+        "page_content": "\n---\n".join(formatted_content),
+        "sources": sources
+    }]
+
+    # Log formatted data
+    with open('logs/strategic_overview_formatted_data.json', 'w') as log_file:
+        json.dump(data, log_file, indent=4)
+    print("\nFormatted data saved to logs/strategic_overview_formatted_data.json")
 
     # Include competitive and value propositions data in the context
-    import json
-
     try:
         with open('temp_files/competitive.json', 'r') as competitive_file:
             competitive_data = json.load(competitive_file)
@@ -92,7 +118,8 @@ try:
         print(f"Error loading value_propositions.json: {e}")
 
     context_dict = {
-        'benefits': context,
+        'benefits': data[0]["page_content"],
+        'answers': "\n---\n".join([f"Query: {answer['query']}\nAnswer: {answer['answer']}" for answer in answers]),
         'competitive': competitive_data,
         'value_propositions': value_prop_data
     }

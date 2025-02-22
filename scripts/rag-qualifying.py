@@ -31,9 +31,13 @@ os.makedirs('temp_files', exist_ok=True)
 os.makedirs('output', exist_ok=True)
 
 try:
-    # Load data from benefits_chunks.json
+    # Load data from benefits_chunks.json and benefits_answers.json
     with open('temp_files/benefits_chunks.json', 'r') as f:
         chunks = json.load(f)
+    
+    # Load benefits answers
+    with open('temp_files/benefits_answers.json', 'r') as f:
+        answers = json.load(f)
     
     # Format chunks data
     formatted_content = []
@@ -49,7 +53,8 @@ try:
             "chunk_id": chunk['chunk_id'],
             "title": chunk['title'],
             "url": chunk['url'],
-            "content": chunk['content']
+            "content": chunk['content'],
+            "raw_content": chunk.get('raw_content', '')  # Using get() in case raw_content isn't present
         }
         
         # Add to log array
@@ -59,7 +64,22 @@ try:
         formatted_parts = [
             f"Title: {chunk['title']}",
             f"URL: {chunk['url']}",
-            f"Content: {chunk['content']}"
+            f"Content: {chunk['content']}",
+            f"Raw Content: {chunk.get('raw_content', '')}",  # Using get() in case raw_content isn't present
+            f"Chunk ID: {chunk['chunk_id']}"
+        ]
+        formatted_content.append("\n".join(formatted_parts))
+
+    # Process answers data
+    for answer in answers:
+        content_parts = {
+            "query": answer['query'],
+            "answer": answer['answer']
+        }
+        content_parts_log.append(content_parts)
+        formatted_parts = [
+            f"Query: {answer['query']}",
+            f"Answer: {answer['answer']}"
         ]
         formatted_content.append("\n".join(formatted_parts))
 
@@ -68,7 +88,15 @@ try:
         json.dump(content_parts_log, parts_log, indent=2)
     print("\nContent parts saved to logs/qualifying_content_parts.json")
 
-    data = "\n---\n".join(formatted_content)
+    data = [{
+        "page_content": "\n---\n".join(formatted_content),
+        "sources": sources
+    }]
+
+    # Log formatted data
+    with open('logs/qualifying_formatted_data.json', 'w') as log_file:
+        json.dump(data, log_file, indent=4)
+    print("\nFormatted data saved to logs/qualifying_formatted_data.json")
 
     # Load value propositions from JSON file (updated from technology-benefits.json)
     with open('temp_files/value_propositions.json', 'r') as f:
@@ -82,9 +110,9 @@ try:
 
         # Define the task with an updated prompt for Section 3
         question1 = f"""
-        You are an AI assistant tasked with generating content for a sales battlecard’s 'Qualifying Questions' section based on a specific value proposition for {PRODUCT_NAME}. Your goal is to create discovery questions, needs assessment questions, qualification criteria, and red flags to help sales professionals qualify opportunities effectively.
+        You are an AI assistant tasked with generating content for a sales battlecard's 'Qualifying Questions' section based on a specific value proposition for {PRODUCT_NAME}. Your goal is to create discovery questions, needs assessment questions, qualification criteria, and red flags to help sales professionals qualify opportunities effectively.
 
-        First, carefully read and analyze the provided content.
+        First, carefully read and analyze the provided content, which includes both product benefits and specific answers to common questions.
 
         The value proposition to focus on is: "{headline}".
 
@@ -193,7 +221,7 @@ try:
 
         Output should only contain the <analysis> content.
         """
-        context = data
+        context = data[0]["page_content"]
 
         # Define the template
         after_rag_prompt = f"""Provide response to the request based only on the following context:

@@ -7,6 +7,13 @@ PRODUCT_NAME = "Chevrolet Silverado 1500"
 COMPETITOR1 = "Ford F-150"
 COMPETITOR2 = "Dodge Ram 1500"
 
+def ensure_directories():
+    """Create necessary directories if they don't exist."""
+    directories = ['temp_files', 'logs', 'output']
+    for directory in directories:
+        os.makedirs(directory, exist_ok=True)
+        print(f"Ensured directory exists: {directory}/")
+
 def run_script(script_name, section_name):
     """Run a Python script and handle any errors."""
     print("\n" + "=" * 80, flush=True)
@@ -46,6 +53,18 @@ def run_script(script_name, section_name):
 
 def main():
     print(f"Starting battlecard generation at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+    
+    # Ensure all necessary directories exist
+    ensure_directories()
+    
+    # Get the current timestamp for the run
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    print(f"\nRun timestamp: {timestamp}")
+    
+    # Create a run-specific log directory
+    run_log_dir = os.path.join('logs', f'run_{timestamp}')
+    os.makedirs(run_log_dir, exist_ok=True)
+    print(f"Created run log directory: {run_log_dir}/")
        
     # Define the sequence of scripts to run
     scripts = [
