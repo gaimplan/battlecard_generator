@@ -1,0 +1,257 @@
+[
+    {
+        "topic": "Unmatched Towing Capability for Work and Play",
+        "sections": [
+            {
+                "section_name": "Discovery Questions",
+                "statements": [
+                    {
+                        "statement": "What are the biggest challenges you currently face when towing or hauling equipment for work or recreation?"
+                    },
+                    {
+                        "statement": "Are you ever limited by your current vehicle's towing capacity, and if so, what impact does that have on your projects or leisure activities?"
+                    },
+                    {
+                        "statement": "How important is it to have a variety of camera views to assist with hooking up and monitoring your trailer while towing?"
+                    },
+                    {
+                        "statement": "What kind of loads do you typically tow, and what distances are you usually traveling?"
+                    },
+                    {
+                        "statement": "Have you ever experienced trailer sway or difficulty maintaining control while towing, and how did you manage it?"
+                    }
+                ]
+            },
+            {
+                "section_name": "Needs Assessment Questions",
+                "statements": [
+                    {
+                        "statement": "What is the maximum towing capacity you require for your typical and occasional hauling needs?"
+                    },
+                    {
+                        "statement": "Are you looking for a diesel engine for increased torque and towing power, or would a gasoline engine suffice?"
+                    },
+                    {
+                        "statement": "How important is it to have advanced trailering technology, such as trailer profiles and tire pressure monitoring, to simplify the towing process?"
+                    },
+                    {
+                        "statement": "What level of driver assistance features, like trailer sway control, are you looking for to enhance safety while towing?"
+                    },
+                    {
+                        "statement": "Do you need a truck that can handle both heavy-duty work and comfortable family trips, or is towing primarily for work purposes?"
+                    }
+                ]
+            },
+            {
+                "section_name": "Qualification Criteria",
+                "statements": [
+                    {
+                        "statement": "Requires a maximum towing capacity of at least 13,000 lbs."
+                    },
+                    {
+                        "statement": "Needs a diesel engine option for optimal torque and fuel efficiency while towing."
+                    },
+                    {
+                        "statement": "Values advanced trailering technology, such as multiple camera views and a dedicated trailering app."
+                    },
+                    {
+                        "statement": "Prioritizes safety features like trailer sway control for enhanced towing stability."
+                    },
+                    {
+                        "statement": "Requires a truck that can seamlessly transition between work-related towing and recreational hauling."
+                    }
+                ]
+            },
+            {
+                "section_name": "Red Flags",
+                "statements": [
+                    {
+                        "statement": "Towing needs are minimal and rarely exceed 5,000 lbs."
+                    },
+                    {
+                        "statement": "Prefers a hybrid or electric powertrain over diesel or gasoline engines."
+                    },
+                    {
+                        "statement": "Is not interested in advanced trailering technology or driver assistance features."
+                    },
+                    {
+                        "statement": "Prioritizes off-road performance above all other considerations, including towing capacity."
+                    },
+                    {
+                        "statement": "Has a limited budget and is unwilling to consider higher trim levels or optional equipment for enhanced towing capabilities."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topic": "Dependable Performance with Lower Repair Costs",
+        "sections": [
+            {
+                "section_name": "Discovery Questions",
+                "statements": [
+                    {
+                        "statement": "What are your biggest frustrations with the reliability of your current truck?"
+                    },
+                    {
+                        "statement": "How much are you currently spending annually on repairs and maintenance for your truck?"
+                    },
+                    {
+                        "statement": "Have you experienced any unexpected breakdowns or downtime with your current truck that have impacted your work or personal life?"
+                    },
+                    {
+                        "statement": "What are the most common repairs you've had to make on your current truck?"
+                    },
+                    {
+                        "statement": "How important is long-term cost of ownership when considering a new truck?"
+                    }
+                ]
+            },
+            {
+                "section_name": "Needs Assessment Questions",
+                "statements": [
+                    {
+                        "statement": "What is your ideal annual budget for truck maintenance and repairs?"
+                    },
+                    {
+                        "statement": "How many miles do you typically drive per year, and what type of driving do you do (e.g., towing, hauling, daily commute)?"
+                    },
+                    {
+                        "statement": "Are you looking for a truck that can handle heavy-duty tasks while minimizing the risk of major repairs?"
+                    },
+                    {
+                        "statement": "Which engine options are you considering, and what are your priorities in terms of power and fuel efficiency?"
+                    },
+                    {
+                        "statement": "Are you interested in a truck with a proven track record for reliability and lower long-term ownership costs?"
+                    }
+                ]
+            },
+            {
+                "section_name": "Qualification Criteria",
+                "statements": [
+                    {
+                        "statement": "Prospect prioritizes lower long-term cost of ownership over initial purchase price."
+                    },
+                    {
+                        "statement": "Prospect values a truck with a reputation for reliability and minimal downtime."
+                    },
+                    {
+                        "statement": "Prospect is looking for a truck that can handle their typical workload without requiring frequent or expensive repairs."
+                    },
+                    {
+                        "statement": "Prospect is open to considering the 5.3L V8 engine option for its known reliability."
+                    },
+                    {
+                        "statement": "Prospect is concerned about the potential for major repairs and wants a truck with a solid build quality."
+                    }
+                ]
+            },
+            {
+                "section_name": "Red Flags",
+                "statements": [
+                    {
+                        "statement": "Prospect is solely focused on the lowest initial purchase price, regardless of potential long-term repair costs."
+                    },
+                    {
+                        "statement": "Prospect believes all trucks are equally reliable and doesn't prioritize maintenance or repair history."
+                    },
+                    {
+                        "statement": "Prospect plans to heavily modify the truck, potentially voiding the warranty and increasing the risk of repairs."
+                    },
+                    {
+                        "statement": "Prospect is primarily interested in features unrelated to performance or reliability, such as advanced technology or luxury options."
+                    },
+                    {
+                        "statement": "Prospect is unwilling to follow the recommended maintenance schedule or use certified service centers."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topic": "Advanced Technology for a Connected and Safe Ride",
+        "sections": [
+            {
+                "section_name": "Discovery Questions",
+                "statements": [
+                    {
+                        "statement": "What are the biggest frustrations you experience with the technology in your current vehicle, especially regarding connectivity and safety while driving?"
+                    },
+                    {
+                        "statement": "How important is it for you to stay connected to your digital life (apps, navigation, contacts) while on the road, and what challenges do you face in achieving that?"
+                    },
+                    {
+                        "statement": "What safety features are most important to you and your family, and what concerns do you have about the safety systems in your current vehicle?"
+                    },
+                    {
+                        "statement": "Have you ever found yourself in a situation where better driver assistance technology could have prevented an accident or made your driving experience less stressful?"
+                    },
+                    {
+                        "statement": "How much do you value having a hands-free driving experience, especially during long trips or when towing?"
+                    }
+                ]
+            },
+            {
+                "section_name": "Needs Assessment Questions",
+                "statements": [
+                    {
+                        "statement": "What level of integration with your smartphone (Apple CarPlay, Android Auto) are you looking for in your next vehicle?"
+                    },
+                    {
+                        "statement": "Are you interested in having a large, user-friendly touchscreen display with advanced voice recognition capabilities?"
+                    },
+                    {
+                        "statement": "How many camera views do you need to feel confident and safe while towing or navigating tight spaces?"
+                    },
+                    {
+                        "statement": "What specific driver-assistance features (e.g., automatic emergency braking, lane keep assist) are essential for your peace of mind?"
+                    },
+                    {
+                        "statement": "Is hands-free driving capability a must-have, or is it just a 'nice-to-have' feature?"
+                    }
+                ]
+            },
+            {
+                "section_name": "Qualification Criteria",
+                "statements": [
+                    {
+                        "statement": "Must have wireless Apple CarPlay and Android Auto compatibility for seamless smartphone integration."
+                    },
+                    {
+                        "statement": "Requires a large, high-resolution touchscreen display for easy access to infotainment and vehicle settings."
+                    },
+                    {
+                        "statement": "Needs a comprehensive suite of driver-assistance features, including automatic emergency braking and lane keep assist."
+                    },
+                    {
+                        "statement": "If towing is a frequent activity, the availability of multiple camera views and trailering assistance technologies is essential."
+                    },
+                    {
+                        "statement": "If long highway drives are common, Super Cruise hands-free driving capability is a significant advantage."
+                    }
+                ]
+            },
+            {
+                "section_name": "Red Flags",
+                "statements": [
+                    {
+                        "statement": "Prioritizes a basic, no-frills driving experience with minimal technology integration."
+                    },
+                    {
+                        "statement": "Is unwilling to pay extra for advanced safety and driver-assistance features."
+                    },
+                    {
+                        "statement": "Prefers a smaller vehicle size over advanced technology features."
+                    },
+                    {
+                        "statement": "Has no need for smartphone integration or advanced infotainment systems."
+                    },
+                    {
+                        "statement": "Is primarily concerned with off-road performance and less interested in advanced driver-assistance technologies."
+                    }
+                ]
+            }
+        ]
+    }
+]
